@@ -22,9 +22,60 @@ author:
   url:               https://twitter.com/randyridenour
   email:             rlridenour@gmail.com
 
+# CSS
 sass:
   sass_dir: _sass
   style: :compressed
-  
+
+# Prose.io
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://randyridenour.net/'
+  media: 'images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+          - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+          - name: "comments"
+        field:
+          label: "Comments"
+          element: "checkbox"
+          value: "true"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Philosophy"
+              value: "Philosophy"
+            - name: "Religion"
+              value: "Religion"
+            - name: "Prayer"
+              value: "Prayer"
+            - name: "Technology"
+              value: "Technology"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: "Post Title"  
 # Custom vars
 version:             1.0.0
