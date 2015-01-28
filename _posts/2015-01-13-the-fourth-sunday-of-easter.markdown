@@ -1,0 +1,42 @@
+---
+layout: post
+title: "The Fourth Sunday of Easter"
+date: 2014-05-11 16:43:49 -0600
+comments: true
+tags: Prayer
+---
+
+God of grace and love,  
+  
+History is filled  
+With names like  
+Alexander,  
+Hannibal,  
+Caesar,  
+Napoleon;  
+Men who took up arms,  
+And with violence,  
+Bent the world to their will.  
+  
+But history whispers  
+Of others,  
+The faceless ones,  
+Who were deemed  
+To insignificant to name.  
+  
+We think of the woman  
+Who, with her daughter,  
+Gave her son to the Nile,  
+Yet found a way to get him back,  
+And by saving her son,  
+Saved a people from their bondage.  
+  
+The world sees those  
+Who bear swords,  
+And calls them heroic.  
+What greater courage  
+Has the one  
+Who faces the sword  
+With compassion and love?  
+
+Amen

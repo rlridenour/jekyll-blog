@@ -1,0 +1,30 @@
+# Dependencies
+markdown:            kramdown
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Randy Ridenour
+tagline:             
+description:         
+url:                 http://randyridenour.net
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Randy Ridenour
+  url:               https://twitter.com/randyridenour
+  email:             rlridenour@gmail.com
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+  
+# Custom vars
+version:             1.0.0

@@ -1,0 +1,49 @@
+---
+layout: post
+title: "the Fourth Sunday after Pentecost"
+date: 2014-07-14 14:08:20 -0600
+comments: true
+tags: Prayer
+---
+
+Holy God,
+
+For those times  
+when we hear  
+the ridicule,  
+the jeers,  
+the insults,  
+and see the looks  
+of pain and loneliness,  
+yet stand in uncomfortable silence,  
+and do nothing,
+
+Lord have mercy.
+
+And for those times  
+when we strike back    
+at those who hurt us,  
+and start another  
+cycle of violence  
+that has no end in sight,
+
+Christ have mercy.
+
+The powerful rested  
+easy on their thrones,  
+when the things of God  
+were bought and sold  
+on the marketplace;  
+for the temple  
+was their palace,  
+and its religion  
+was their power.
+
+Lord Jesus,  
+storm into our lives   
+as you did the temple;    
+may the chains be broken,  
+the tables turned,  
+and our hearts set free.
+
+*Amen*
