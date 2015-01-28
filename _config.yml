@@ -35,7 +35,7 @@ prose:
     _posts:
       - name: "published"
         field:
-          label: "Published"
+          label: "published"
           element: "checkbox"
           value: "true"
           - name: "comments"
