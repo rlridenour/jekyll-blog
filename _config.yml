@@ -29,8 +29,14 @@ sass:
 
 # Prose.io
 prose:
+  rooturl: '_posts'
   siteurl: "http://randyridenour.net"
   media: "images"
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
   metadata:
     _posts:
       - name: "published"
@@ -53,6 +59,20 @@ prose:
           label: "Title"
           element: "text"
           value: "Post Title"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Philosophy"
+              value: "Philosophy"
+            - name: "Religion"
+              value: "Religion"
+            - name: "Prayer"
+              value: "Prayer"
+            - name: "Technology"
+              value: "Technology"
           
 # Custom vars
 version:             1.0.0
