@@ -33,12 +33,12 @@ prose:
   media: "images"
   metadata:
     _posts:
-      # - name: "published"
-      #   field:
-      #     label: "published"
-      #     element: "checkbox"
-      #     value: "true"
-      #     - name: "comments"
+      - name: "published"
+        field:
+          label: "published"
+          element: "checkbox"
+          value: "true"
+      - name: "comments"
         field:
           label: "Comments"
           element: "checkbox"
