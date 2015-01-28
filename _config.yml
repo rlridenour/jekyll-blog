@@ -53,5 +53,6 @@ prose:
           label: "Title"
           element: "text"
           value: "Post Title"
+          
 # Custom vars
 version:             1.0.0
