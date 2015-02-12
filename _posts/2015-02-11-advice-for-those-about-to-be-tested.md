@@ -9,7 +9,7 @@ date: 2015-02-11 07:37:34 -0600
 ---
 
 <blockquote class="big">Therefore I beg you, reader, not to rejoice too greatly if you have read much, but if you have understood much. Nor that you have understood much, but that you have been able to retain it. Otherwise it is of little profit either to read or to understand.”
-― Hugh of Saint Victor</blockquote>
+</blockquote>
 
 <cite class="big">Hugh of Saint Victor, d. Feb. 11, 1141</cite>
 
