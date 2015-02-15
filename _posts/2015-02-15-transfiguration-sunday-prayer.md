@@ -16,7 +16,7 @@ slaves to the satisfaction of our own desires,
 and to the pursuit of our own selfish ends.  
 
 Our prayer today is that  
-we may be transformed,
+we may be transformed,  
 freed, so that we may  
 live as Christ lived,  
 and love as he loved,  
