@@ -7,19 +7,26 @@ tags:
 date: 2015-02-18 06:19:46 -0600
 ---
 
-Lord, have mercy, for I have heard the gentle voice of God, yet speak to others with words that hurt and destroy.
+Lord, have mercy, for I have heard the gentle voice of God,  
+yet speak to others with words that hurt and destroy.
 
-Lord, have mercy, for I have been given more than I could ever use, yet refuse to see the needs of those around me.
+Lord, have mercy, for I have been given more than I could ever use,  
+yet refuse to see the needs of those around me.
 
-Lord, have mercy, for you have placed me in positions of power and influence, yet I use those positions for my own gain, and not in service to your children.
+Lord, have mercy, for you have placed me in positions of power and influence,  
+yet I use those positions for my own gain, and not in service to your children.
 
-Lord, have mercy, for you have placed me as your steward on this earth, yet I continue to harm your creation by the choices that I make.
+Lord, have mercy, for you have placed me as your steward on this earth,  
+yet I continue to harm your creation by the choices that I make.
 
-Lord, have mercy, for every breath I take is a gift from you, yet I focus only on the few meaningless things that I lack.
+Lord, have mercy, for every breath I take is a gift from you,  
+yet I focus only on the few meaningless things that I lack.
 
-Lord, have mercy, for I have experienced the power of the Resurrection, yet my thoughts are often as one who has no hope.
+Lord, have mercy, for I have experienced the power of the Resurrection,  
+yet my thoughts are often as one who has no hope.
 
-Lord, have mercy, for I have have been set free by the Cross, yet live as one who is still in bondage.
+Lord, have mercy, for I have have been set free by the Cross,  
+yet live as one who is still in bondage.
 
 Lord, have mercy on me, a sinner. 
 
