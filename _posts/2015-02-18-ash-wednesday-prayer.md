@@ -31,5 +31,5 @@ Amen.
 
 >Much more surely then, now that we have been justified by his blood, will we be saved through him from the wrath of God. For if while we were enemies, we were reconciled to God through the death of his Son, much more surely, having been reconciled, will we be saved by his life. But more than that, we even boast in God through our Lord Jesus Christ, through whom we have now received reconciliation.
 
->cite>Romans 5:9-11 (NRSV)</cite>
+<cite>Romans 5:9-11 (NRSV)</cite>
 
