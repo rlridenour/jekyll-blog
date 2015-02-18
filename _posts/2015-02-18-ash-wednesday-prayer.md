@@ -37,11 +37,13 @@ yet live as one who is still in bondage.
 
 Lord, have mercy on me, a sinner. 
 
-We who are your children, in humility and penitence, now seek your face.
+We who are your children,  
+in humility and penitence,  
+now seek your face.
 
 Lord, have mercy.
 
-Amen.
+*Amen*
 
 <blockquote class="big">Much more surely then, now that we have been justified by his blood, will we be saved through him from the wrath of God. For if while we were enemies, we were reconciled to God through the death of his Son, much more surely, having been reconciled, will we be saved by his life. But more than that, we even boast in God through our Lord Jesus Christ, through whom we have now received reconciliation.
 </blockquote>
