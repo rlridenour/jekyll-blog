@@ -22,4 +22,5 @@ On the other hand, it seems that much of the trigger warnings used in higher edu
 
 
 
+
 [usatoday]: http://www.usatoday.com/story/life/books/2014/10/23/neil-gaiman-trigger-warning-cover-excerpt/17719799/
