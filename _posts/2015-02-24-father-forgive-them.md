@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cross Shattered Christ, Chapter 1
+title: The Cross Shattered Christ, Chapter 1
 tags:
 - Religion
 date: 2015-02-24 15:02:29 -0600
