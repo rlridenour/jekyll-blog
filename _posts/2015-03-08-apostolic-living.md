@@ -3,6 +3,7 @@ layout: post
 title: Apostolic Living
 tags:
 - Quotes
+- Religion
 date: 2015-03-08 07:33:51 -0500
 ---
 
