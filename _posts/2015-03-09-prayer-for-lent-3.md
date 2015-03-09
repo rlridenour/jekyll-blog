@@ -22,7 +22,7 @@ that comes with love.
 
 Did the soldiers know  
 what they were doing  
-as the stretched the arms  
+as they stretched the arms  
 of Jesus onto the cross?
 
 Humiliated and scorned,  
