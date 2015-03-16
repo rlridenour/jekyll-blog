@@ -11,35 +11,35 @@ The best sermons open our eyes to present realities, give us hope for a future i
 
 God of Justice,
 
-In 1961,
-the Freedom Riders
-were beaten with pipes
-after their bus was bombed
+In 1961,  
+the Freedom Riders  
+were beaten with pipes  
+after their bus was bombed  
 in a terrorist act.
 
-I, Lord, would never
+I, Lord, would never  
 have swung a pipe in anger.
 
-Fifty-four years later,
-those on another bus
-shout ugly chants to
-reinforce a false
+Fifty-four years later,  
+those on another bus  
+shout ugly chants to  
+reinforce a false  
 sense of superiority.
 
-I, Lord, would have refused
+I, Lord, would have refused  
 to utter the reprehensible words.
 
-Instead, Lord,
-I am the one
-who stands in silence,
-and does nothing,
+Instead, Lord,  
+I am the one  
+who stands in silence,  
+and does nothing,  
 but enables everything.
 
-Lord have mercy
-on my
-apathetic,
-indifferent,
-lukewarm
+Lord have mercy  
+on my  
+apathetic,  
+indifferent,  
+lukewarm  
 soul.
 
 *Amen*
