@@ -10,4 +10,6 @@ So far, this has been the most challenging and difficult chapter for me. Hauerwa
 
 God refuses to play by our rules. Thanks be to God.
 
-[^1]: Hauerwas, Stanley (2005-01-01). Cross-Shattered Christ: Meditations on the Seven Last Words (pp. 41-45). Baker Publishing Group. Kindle Edition. 
+[^1]: Hauerwas, Stanley (2005-01-01). *Cross-Shattered Christ: Meditations on the Seven Last Words* (pp. 51-52). Baker Publishing Group. Kindle Edition. 
+
+
