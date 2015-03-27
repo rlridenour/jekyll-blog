@@ -6,6 +6,8 @@ tags:
 date: 2015-03-27 13:36:15 -0500
 ---
 
-So far, this has been the most challenging and difficult chapter for me. Hauerwas challenges us reflect on our standard interpretations of Jesus' cry of despair from the cross, "My God, my God, why have you forsaken me?" and understand it not in terms of one who is sacrificed to satisfy a vengeful God, but as a cry from the God who both sacrifices and is sacrificed. That we find this cry of Jesus so difficult to comprehend shows that we, as citizens of this world, understand and identify with the power and authority of the empire. Instead, "Jesus refuses to accept the terms of how the world understands power and authority.... We are the spared because God refuses to have us lost."
+So far, this has been the most challenging and difficult chapter for me. Hauerwas challenges us reflect on our standard interpretations of Jesus' cry of despair from the cross, "My God, my God, why have you forsaken me?" and understand it not in terms of one who is sacrificed to satisfy a vengeful God, but as a cry from the God who both sacrifices and is sacrificed. That we find this cry of Jesus so difficult to comprehend shows that we, as citizens of this world, understand and identify with the power and authority of the empire. Instead, "Jesus refuses to accept the terms of how the world understands power and authority.... We are the spared because God refuses to have us lost."[^1]
 
 God refuses to play by our rules. Thanks be to God.
+
+[^1]: Hauerwas, Stanley (2005-01-01). Cross-Shattered Christ: Meditations on the Seven Last Words (pp. 41-45). Baker Publishing Group. Kindle Edition. 
