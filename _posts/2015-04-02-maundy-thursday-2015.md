@@ -28,4 +28,4 @@ accepting,
 and sometimes awkward  
 beauty.
 
-Amen
+*Amen*
