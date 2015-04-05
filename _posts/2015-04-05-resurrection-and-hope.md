@@ -3,6 +3,8 @@ layout: post
 title: Resurrection and Hope
 tags:
 - Quotes
+- Religion
+comments: true
 date: 2015-04-05 14:57:53 -0500
 ---
 
