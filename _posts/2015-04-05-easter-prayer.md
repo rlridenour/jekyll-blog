@@ -7,7 +7,7 @@ tags:
 date: 2015-04-05 14:00:29 -0500
 ---
 
-Prayer for a rain Easter Day:
+Prayer for a rainy Easter Day:
 
 The refreshing rain
 falls upon the parched land
