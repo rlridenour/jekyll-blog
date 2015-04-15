@@ -17,11 +17,11 @@ As I said, these mistakes are related. I am not an innocent, objective judge. Th
 
 Father,
 
-Grant us the faith to be 
-your redeemed people,
-who announce to the world
-by word and deed
-the miracle of your
+Grant us the faith to be   
+your redeemed people,  
+who announce to the world  
+by word and deed  
+the miracle of your  
 reconciling love.
 
 *Amen*
