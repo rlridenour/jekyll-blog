@@ -14,13 +14,13 @@ Second, I see in my students a level of spiritual depth that I certainly did not
 
 Gracious and Loving God,
 
-Thank you for those moments
-when grace breaks in
-to interrupt our lives
-in surprising ways,
-and unexpected voices
-teach us once again
-what it means
+Thank you for those moments  
+when grace breaks in  
+to interrupt our lives  
+in surprising ways,  
+and unexpected voices  
+teach us once again  
+what it means  
 to follow Jesus.
 
 *Amen*
