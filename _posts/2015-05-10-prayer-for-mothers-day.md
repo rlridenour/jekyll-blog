@@ -8,6 +8,8 @@ comments: true
 date: 2015-05-10 13:47:15 -0500
 ---
 
+Mother's Day can be an awkward time in the life of the church. There is a great deal of internal pressure to commemorate the day, but we should acknowledge that there are many who are understandably uncomfortable on this day. There are those who may have painful memories of abuse at the hand of their biological mothers, others who may have never known their mothers, and many others who have never had, nor will ever have, children of their own. So, in this week's prayer, I've tried to celebrate, not mothers per se, but caregivers, whoever they may be.
+
 Loving God,
 
 We give thanks this day,  
