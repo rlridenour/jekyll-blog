@@ -43,7 +43,7 @@ for the healing of this world.
   
 In the name of Jesus Christ,   
 who called us to be in the world,   
-but not of the world,   
+but not of it,   
 we pray. 
 
 *Amen*
