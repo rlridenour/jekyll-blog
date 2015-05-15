@@ -46,5 +46,6 @@ who called us to be in the world,
 but not of the world,   
 we pray. 
 
-Amen
+*Amen*
+
 
