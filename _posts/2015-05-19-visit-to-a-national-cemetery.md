@@ -16,9 +16,9 @@ of perfect straight lines.
 Each member stood  
 at attention, a silent and still  
 granite memorial to one  
-who was a child once,
+who was a child once
 
 before youth was taken,  
-leaving only scars,
+leaving only scars
 
 if anything at all. 
