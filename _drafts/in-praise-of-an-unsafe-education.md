@@ -19,7 +19,7 @@ On the other hand, it seems that much of the trigger warnings used in higher edu
 
 ## Safe Christian Education? ##
 
-
+Add stuff here. 
 
 
 
