@@ -7,7 +7,7 @@ comments: true
 date: 2015-05-19 16:48:25 -0500
 ---
 
-*A poem for Memorial Day, 2015, Written after conducting a funeral at the Dallas-Fort Worth National Cemetery, April 23, 2015.*
+*A poem for Memorial Day, 2015, written after conducting a funeral at the Dallas-Fort Worth National Cemetery, April 23, 2015.*
 
 The boy stared, amazed  
 at the ranks and files  
