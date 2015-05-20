@@ -13,4 +13,4 @@ This blog is hosted on Github, and posting from iOS has been a challenge. I'm op
 
 In a moment, I will try to push the new file to the repository, and hope that a new post shortly appears.
 
-UPDATE: Success! I like writing with [Editorial](http://omz-software.com/editorial/), but it can't use the document picker. There is an Editorial workflow for Working Copy, but I haven't trie it yet. Byword is working perfectly.
+UPDATE: Success! I like writing with [Editorial](http://omz-software.com/editorial/), but it can't use the document picker. There is an Editorial workflow for Working Copy, but I haven't tried it yet. Byword is working perfectly.
