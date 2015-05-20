@@ -7,6 +7,8 @@ comments: true
 date: 2015-05-19 16:48:25 -0500
 ---
 
+![cemetery][]
+
 *A poem for Memorial Day, 2015, written after conducting a funeral at the Dallas-Fort Worth National Cemetery, April 23, 2015.*
 
 The boy stared, amazed  
@@ -22,3 +24,5 @@ before youth was taken,
 leaving only scars
 
 if anything at all. 
+
+[cemetery]: http://randyridenour.net/images/cemetery.jpg "Military Cemetery" width=800px
