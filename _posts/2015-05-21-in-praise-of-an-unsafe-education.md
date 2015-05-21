@@ -3,6 +3,7 @@ layout: post
 title: In Praise of an Unsafe Education
 tags:
 - education
+comments: true
 date: 2015-05-21 09:53:13 -0500
 ---
 
