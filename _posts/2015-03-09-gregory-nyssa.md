@@ -3,7 +3,7 @@ layout: post
 title: Wonder and Concepts
 tags:
 - quotes
-- Religion
+- religion
 date: 2015-03-09 13:18:57 -0500
 ---
 

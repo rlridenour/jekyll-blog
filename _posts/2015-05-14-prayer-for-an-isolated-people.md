@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prayer for an Isolated People
-tags: [Religion, Prayer]
+tags: [religion, prayer]
 published: True
 comments: true
 date: 2015-05-14 19:42:37

@@ -2,7 +2,7 @@
 layout: post
 title: The Cross-Shattered Christ, Chapter 5
 tags:
-- Religion
+- religion
 date: 2015-03-27 14:42:42 -0500
 ---
 

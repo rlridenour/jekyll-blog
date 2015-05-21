@@ -3,7 +3,7 @@ layout: post
 title: Transfiguration Sunday Prayer
 tags:
 - prayer
-- Religion
+- religion
 date: 2015-02-15 16:56:43 -0600
 ---
 

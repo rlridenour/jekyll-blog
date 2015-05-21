@@ -3,7 +3,7 @@ layout: post
 title: Prayer for Silence
 tags:
 - prayer
-- Religion
+- religion
 comments: true
 date: 2015-04-27 18:21:56 -0500
 ---

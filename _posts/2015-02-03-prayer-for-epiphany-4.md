@@ -3,7 +3,7 @@ layout: post
 title: Prayer for Epiphany 4
 tags:
 - prayer
-- Religion
+- religion
 date: 2015-02-03 15:26:07 -0600
 ---
 

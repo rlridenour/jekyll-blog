@@ -3,7 +3,7 @@ layout: post
 title: Ash Wednesday Prayer
 tags:
 - prayer
-- Religion
+- religion
 date: 2015-02-18 06:19:46 -0600
 ---
 

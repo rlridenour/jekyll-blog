@@ -2,7 +2,7 @@
 layout: post
 title: The Cross Shattered Christ, Chapter 1
 tags:
-- Religion
+- religion
 date: 2015-02-24 15:02:29 -0600
 ---
 

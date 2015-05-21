@@ -3,7 +3,7 @@ layout: post
 title: Scheming Swindlers
 tags:
 - quotes
-- Religion
+- religion
 date: 2015-01-20 17:14:14 -0600
 ---
 

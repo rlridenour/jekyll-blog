@@ -3,7 +3,7 @@ layout: post
 title: Prayer for Lent 3
 tags:
 - prayer
-- Religion
+- religion
 date: 2015-03-09 07:02:52 -0500
 ---
 
