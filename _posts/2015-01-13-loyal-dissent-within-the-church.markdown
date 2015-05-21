@@ -3,7 +3,7 @@ layout: post
 title: "Loyal Dissent Within the Church"
 date: 2014-04-01 16:58:21 -0600
 comments: true
-tags: Quotes
+tags: quotes
 ---
 
 

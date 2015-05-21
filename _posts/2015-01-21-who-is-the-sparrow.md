@@ -2,7 +2,7 @@
 layout: post
 title: Who is the Sparrow?
 tags:
-- Quotes
+- quotes
 - Religion
 date: 2015-01-21 13:22:36 -0600
 ---

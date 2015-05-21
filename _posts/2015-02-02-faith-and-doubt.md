@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Faith and Doubt
-tags: Quotes
+tags: quotes
 date: 2015-02-02 19:07:32 -0600
 ---
 

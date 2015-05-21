@@ -2,7 +2,7 @@
 layout: post
 title: Definition of 'Lawyer'
 tags:
-- Quotes
+- quotes
 date: 2015-03-05 07:54:38 -0600
 ---
 

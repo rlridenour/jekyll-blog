@@ -3,7 +3,7 @@ layout: post
 title: "Permanent Impermanence"
 date: 2011-12-29 
 comments: true
-tags: [Metaphysics, Quotes]
+tags: [Metaphysics, quotes]
 ---
 
 

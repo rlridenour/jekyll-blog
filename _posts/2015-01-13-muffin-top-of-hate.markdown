@@ -3,7 +3,7 @@ layout: post
 title: "Muffin Top of Hate"
 date: 2014-12-08 09:42:38 -0600
 comments: true
-tags: Quotes
+tags: quotes
 ---
 
 <blockquote class="big">

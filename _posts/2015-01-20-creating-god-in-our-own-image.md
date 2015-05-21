@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating God in Our Own Image
-tags: Quotes
+tags: quotes
 date: 2015-01-20 16:08:53 -0600
 comments: true
 ---

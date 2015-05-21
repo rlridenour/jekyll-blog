@@ -2,7 +2,7 @@
 layout: post
 title: Triumph Over Democracy
 tags:
-- Quotes
+- quotes
 date: 2015-03-30 20:35:38 -0500
 ---
 

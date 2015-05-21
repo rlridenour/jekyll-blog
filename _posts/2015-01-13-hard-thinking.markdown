@@ -3,7 +3,7 @@ layout: post
 title: "Hard Thinking"
 date: 2014-07-17 14:03:28 -0600
 comments: true
-tags: Quotes
+tags: quotes
 ---
 
 

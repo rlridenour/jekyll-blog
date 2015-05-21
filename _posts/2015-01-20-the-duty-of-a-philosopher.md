@@ -2,7 +2,7 @@
 layout: post
 title: The Duty of A Philosopher
 tags:
-- Quotes
+- quotes
 - Philosophy
 date: 2015-01-20 16:40:46 -0600
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Advice from Chesterton
 tags:
-- Quotes
+- quotes
 - Religion
 date: 2015-01-20 16:50:40 -0600
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can't Fix Stupid
-tags: Quotes
+tags: quotes
 date: 2015-01-22 07:57:04 -0600
 ---
 

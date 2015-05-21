@@ -2,7 +2,7 @@
 layout: post
 title: The Fine Line
 tags:
-- Quotes
+- quotes
 date: 2015-02-05 06:30:26 -0600
 ---
 

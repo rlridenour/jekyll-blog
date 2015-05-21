@@ -2,7 +2,7 @@
 layout: post
 title: Advice for Those About to be Tested
 tags:
-- Quotes
+- quotes
 - Teaching
 - Education
 date: 2015-02-11 07:37:34 -0600
