@@ -3,7 +3,7 @@ layout: post
 title: "The Fourteenth Sunday After Pentecost"
 date: 2014-09-16 13:25:43 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 I love it when a minister points out something that I had never noticed in the text. Mitch Randall certainly did that this past Sunday. So, this prayer recalls Daniel's action to save his competitors in Babylon as recounted in Daniel 2.

@@ -3,7 +3,7 @@ layout: post
 title: "The Seventh Sunday After Pentecost"
 date: 2014-07-27 13:59:26 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 

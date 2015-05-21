@@ -3,7 +3,7 @@ layout: post
 title: "The Fifteenth Sunday After Pentecost"
 date: 2014-09-22 13:23:33 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 In response to a sermon on Daniel 3:

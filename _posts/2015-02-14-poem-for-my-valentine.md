@@ -2,7 +2,7 @@
 layout: post
 title: Poem for my Valentine
 tags:
-- Poetry
+- poetry
 date: 2015-02-14 08:21:43 -0600
 ---
 

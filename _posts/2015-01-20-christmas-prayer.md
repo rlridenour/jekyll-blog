@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christmas Prayer
-tags: Prayer
+tags: prayer
 date: 2011-12-25 16:46:00 -0600
 comments: true
 ---

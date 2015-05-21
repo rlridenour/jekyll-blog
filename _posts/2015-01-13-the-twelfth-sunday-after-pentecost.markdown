@@ -3,7 +3,7 @@ layout: post
 title: "The Twelfth Sunday After Pentecost"
 date: 2014-09-01 13:34:09 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Loving God,

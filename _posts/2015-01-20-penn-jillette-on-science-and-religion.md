@@ -4,9 +4,9 @@ title: "Penn Jillette on Science and Religion"
 date: 2011-12-27 14:34
 comments: true
 tags:
-- Science
-- Religion
-- Philosophy
+- science
+- religion
+- philosophy
 ---
 
 [John Gruber](www.daringfireball.net) recently posted this interesting quote from Penn Jillette, of Penn and Teller fame:

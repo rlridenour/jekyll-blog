@@ -2,9 +2,9 @@
 layout: post
 title: Dostoevsky, Suffering, and the Prayer for the Week
 tags:
-- Prayer
-- Religion
-- Philosophy
+- prayer
+- religion
+- philosophy
 comments: true
 date: 2015-04-15 10:45:05 -0500
 ---

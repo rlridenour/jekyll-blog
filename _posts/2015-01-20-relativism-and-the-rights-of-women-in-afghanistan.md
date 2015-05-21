@@ -3,7 +3,7 @@ layout: post
 title: "Relativism and the Rights of Women in Afghanistan"
 date: 2011-12-02 17:16:00 -0600
 comments: true
-tags: [Ethics]
+tags: [ethics]
 ---
 
 ## Cultural Relativism

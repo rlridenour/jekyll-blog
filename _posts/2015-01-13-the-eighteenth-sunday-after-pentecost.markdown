@@ -3,7 +3,7 @@ layout: post
 title: "The Eighteenth Sunday After Pentecost"
 date: 2014-10-13 13:14:13 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Holy God,

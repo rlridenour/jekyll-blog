@@ -3,7 +3,7 @@ layout: post
 title: "Good Friday"
 date: 2014-04-18 16:52:55 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Even though I fear the answer,  

@@ -3,7 +3,7 @@ layout: post
 title: "The Fourth Sunday of Easter"
 date: 2014-05-11 16:43:49 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 God of grace and love,  

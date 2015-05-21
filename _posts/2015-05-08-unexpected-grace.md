@@ -2,7 +2,7 @@
 layout: post
 title: Unexpected Grace
 tags:
-- Prayer
+- prayer
 - Religion
 comments: true
 date: 2015-05-08 11:40:13 -0500

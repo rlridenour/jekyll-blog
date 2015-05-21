@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Praying for Enemies
-tags: Prayer
+tags: prayer
 date: 2015-01-20 12:10:44 -0600
 comments: true
 ---

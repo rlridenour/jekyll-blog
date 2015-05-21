@@ -2,7 +2,7 @@
 layout: post
 title: Good Friday Prayer
 tags:
-- Prayer
+- prayer
 - Religion
 date: 2015-04-03 16:50:03 -0500
 ---

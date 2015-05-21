@@ -3,7 +3,7 @@ layout: post
 title: "The Sixteenth Sunday After Pentecost"
 date: 2014-09-29 13:21:55 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 As I was driving to work this morning, the person behind me honked as I was waiting for a pedestrian to cross the street at a marked crosswalk. I was still fuming and telling myself that I wish I could have told them what I really thought as they pulled into the parking space beside me. Fortunately, I had just heard Mitch Randall's sermon on Daniel in the lions' den the day before. With that said, here is the prayer for the week:

@@ -3,7 +3,7 @@ layout: post
 title: The Danger of Thinking
 tags:
 - quotes
-- Philosophy
+- philosophy
 date: 2015-02-22 15:39:45 -0600
 ---
 

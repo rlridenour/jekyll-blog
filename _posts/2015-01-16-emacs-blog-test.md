@@ -2,7 +2,8 @@
 layout: post
 title: Emacs Blog Test
 tags:
-- Emacs
+- emacs
+- jekyll
 comments: true
 date: 2015-01-16 16:02:35 -0600
 ---

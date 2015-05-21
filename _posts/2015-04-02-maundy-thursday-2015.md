@@ -2,7 +2,7 @@
 layout: post
 title: Maundy Thursday 2015
 tags:
-- Prayer
+- prayer
 - Religion
 date: 2015-04-02 11:24:32 -0500
 ---

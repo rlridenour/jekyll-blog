@@ -3,7 +3,7 @@ layout: post
 title: "The Second Sunday of Easter"
 date: 2014-04-27 16:47:01 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 *A prayer prompted by the deacon ordination service at NorthHaven Church, April 27, 2014.*

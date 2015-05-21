@@ -3,7 +3,7 @@ layout: post
 title: "The Nineteenth Sunday After Pentecost"
 date: 2014-10-23 13:12:45 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Here I am, Lord,

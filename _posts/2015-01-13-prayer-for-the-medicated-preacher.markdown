@@ -3,7 +3,7 @@ layout: post
 title: "Prayer for the Medicated Preacher"
 date: 2014-05-25 16:41:04 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 To commemorate Mitch Randall's fine, although heavily drugged, preaching on May 11, 2014:

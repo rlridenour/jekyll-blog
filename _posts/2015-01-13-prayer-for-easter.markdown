@@ -3,7 +3,7 @@ layout: post
 title: "Prayer for Easter"
 date: 2014-04-20 16:49:29 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 We hear Jesus say,  

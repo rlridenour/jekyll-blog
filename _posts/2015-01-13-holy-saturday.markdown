@@ -3,7 +3,7 @@ layout: post
 title: "Holy Saturday"
 date: 2014-04-19 16:51:11 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Happiness,  

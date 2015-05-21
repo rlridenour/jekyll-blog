@@ -3,7 +3,7 @@ layout: post
 title: "The Fifth Sunday After Pentecost"
 date: 2014-07-29 14:07:11 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Another thought-provoking sermon at [NorthHaven](http://northhavenchurch.net) this week - this time, from Bryan Partridge. 

@@ -3,7 +3,7 @@ layout: post
 title: "the Fourth Sunday after Pentecost"
 date: 2014-07-14 14:08:20 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Holy God,

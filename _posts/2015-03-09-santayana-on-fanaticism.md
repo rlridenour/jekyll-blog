@@ -3,7 +3,7 @@ layout: post
 title: Santayana on Fanaticism
 tags:
 - quotes
-- Philosophy
+- philosophy
 date: 2015-03-09 18:54:12 -0500
 ---
 

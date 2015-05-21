@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prayer for Resolutions
-tags: Prayer
+tags: prayer
 date: 2015-01-27 20:56:24 -0600
 comments: true
 ---

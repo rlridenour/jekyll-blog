@@ -3,7 +3,7 @@ layout: post
 title: "the Fifth Sunday of Lent"
 date: 2014-04-06 16:57:12 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Lord Jesus,  

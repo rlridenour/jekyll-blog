@@ -3,7 +3,7 @@ layout: post
 title: "Third Sunday of Advent"
 date: 2014-12-16 09:17:42 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 

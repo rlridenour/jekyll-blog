@@ -3,7 +3,7 @@ layout: post
 title: "A Christmas Poem"
 date: 2014-12-25 08:22:52 -0600
 comments: true
-tags: Poetry
+tags: poetry
 ---
 
 A hundred mile journey  

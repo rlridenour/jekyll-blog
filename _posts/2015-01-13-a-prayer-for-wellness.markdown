@@ -3,7 +3,7 @@ layout: post
 title: "A Prayer for Wellness"
 date: 2014-12-30 08:18:12 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Jesus saw the lame man at the pool,  

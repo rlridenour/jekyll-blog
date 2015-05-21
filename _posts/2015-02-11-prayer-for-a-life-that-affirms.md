@@ -2,7 +2,7 @@
 layout: post
 title: Prayer for a Life that Affirms
 tags:
-- Prayer
+- prayer
 - Religion
 date: 2015-02-11 15:03:30 -0600
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: "Fourth Sunday of Advent"
 date: 2014-12-22 08:24:48 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Sometimes it seems  

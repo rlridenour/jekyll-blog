@@ -3,7 +3,7 @@ layout: post
 title: "Charge to the Church"
 date: 2014-04-27 16:48:07 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 *For the NorthHaven Church Deacon Ordination Service*  

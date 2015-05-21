@@ -3,7 +3,7 @@ layout: post
 title: "The Seventeenth Sunday After Pentecost"
 date: 2014-10-07 13:19:57 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 We missed worship at NorthHaven this past Sunday, although I hear that there was an exceptional sermon by Bryan Partridge. Instead, I was at the 2014 meeting of the Baptist Association of Philosophy Teachers. A common theme of the presentations that I heard was the virtue of humility, one that seems often missing from academic life. This week's prayer:

@@ -3,7 +3,7 @@ layout: post
 title: "Using Marked in Emacs"
 date: 2014-07-22 17:08:20 -0600
 comments: true
-tags: Emacs
+tags: emacs
 ---
 
 [Brett Terpstra][terpstra] makes some great tools, and gives away many of them for nothing. So, I'm very happy to return a small amount by paying for [Marked][marked], his great tool for previewing Markdown files. The preview auto-updates with each save, and the new version validates external links and provides a wealth of useful statistics about the document.

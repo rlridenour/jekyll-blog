@@ -3,7 +3,7 @@ layout: post
 title: "For Sheri"
 date: 2014-06-28 14:25:08 -0600
 comments: true
-tags: Poetry
+tags: poetry
 ---
 
 For Sheri on her birthday:

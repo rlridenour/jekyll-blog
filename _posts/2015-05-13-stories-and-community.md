@@ -3,7 +3,7 @@ layout: post
 title: Stories and Community
 tags:
 - quotes
-- Philosophy
+- philosophy
 comments: true
 date: 2015-05-13 06:27:59 -0500
 ---

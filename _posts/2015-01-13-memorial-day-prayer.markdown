@@ -3,7 +3,7 @@ layout: post
 title: "Memorial Day Prayer"
 date: 2014-05-25 16:39:30 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 God of creation,

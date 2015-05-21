@@ -3,7 +3,7 @@ layout: post
 title: "the Third Sunday of Easter"
 date: 2014-05-04 16:44:56 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 *On the Tenth Anniversary of NorthHaven Church*

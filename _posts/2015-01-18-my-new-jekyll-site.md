@@ -2,7 +2,7 @@
 layout: post
 title: My New Jekyll Site
 tags:
-- Jekyll
+- jekyll
 date: 2015-01-18 17:10:29 -0600
 comments: true
 ---

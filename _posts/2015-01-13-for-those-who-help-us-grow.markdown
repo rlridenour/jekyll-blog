@@ -3,7 +3,7 @@ layout: post
 title: "For Those Who Help Us Grow"
 date: 2014-12-16 09:15:32 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 

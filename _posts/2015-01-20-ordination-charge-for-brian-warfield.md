@@ -3,7 +3,7 @@ layout: post
 title: "Ordination Charge for Brian Warfield"
 date: 2012-04-13 13:25:00 -0600
 comments: true
-tags: Religion
+tags: religion
 ---
 
 I was honored to be asked to deliver the following charge to the minister at the ordination of Brian Warfield, one of our best former students. It was a pleasure to see Brian, Misty, and to meet their children. It was also great to catch up with friends at Spring Creek Baptist Church, where Brian was ordained. The text of my remarks follows:  

@@ -4,8 +4,8 @@ title: The Problem with the Ontological Argument
 date: "2012-03-17 20:59:00 -0600"
 comments: true
 tags: 
-  - Philosophy
-  - Religion
+  - philosophy
+  - religion
 published: true
 ---
 

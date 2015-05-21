@@ -3,7 +3,7 @@ layout: post
 title: "The Tenth Sunday After Pentecost"
 date: 2014-08-17 13:40:19 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 God of Hope,

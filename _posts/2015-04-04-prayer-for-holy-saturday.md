@@ -2,7 +2,7 @@
 layout: post
 title: Prayer for Holy Saturday
 tags:
-- Prayer
+- prayer
 - Religion
 date: 2015-04-04 11:20:34 -0500
 ---

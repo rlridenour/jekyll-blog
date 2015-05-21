@@ -3,7 +3,7 @@ layout: post
 title: "Prayer for Compassion"
 date: 2014-06-16 14:29:32 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 ## For the Second Sunday of Pentecost

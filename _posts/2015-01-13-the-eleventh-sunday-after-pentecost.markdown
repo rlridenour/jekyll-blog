@@ -3,7 +3,7 @@ layout: post
 title: "The Eleventh Sunday After Pentecost"
 date: 2014-09-01 13:35:42 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 

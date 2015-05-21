@@ -2,7 +2,7 @@
 layout: post
 title: Why Jekyll?
 tags:
-- Jekyll
+- jekyll
 date: 2015-01-17 20:07:22 -0600
 comments: true
 ---

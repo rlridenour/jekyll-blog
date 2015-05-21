@@ -3,7 +3,7 @@ layout: post
 title: "Reloading zshrc"
 date: 2014-04-14 17:09:21 -0600
 comments: true
-tags: Zsh
+tags: zsh
 ---
 
 I use zsh instead of bash. If that doesn't mean anything to you, then just skip the rest of this post. I've been restarting the terminal after every change to my zshrc file. I knew there had to be a way to quickly reload the file without restarting the terminal.

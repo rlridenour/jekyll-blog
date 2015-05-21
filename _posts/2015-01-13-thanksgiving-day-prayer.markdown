@@ -3,7 +3,7 @@ layout: post
 title: "Thanksgiving Day Prayer"
 date: 2014-11-27 12:51:35 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Gracious God,

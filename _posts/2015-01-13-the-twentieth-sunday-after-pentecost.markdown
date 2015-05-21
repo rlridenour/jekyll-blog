@@ -3,7 +3,7 @@ layout: post
 title: "The Twentieth Sunday After Pentecost"
 date: 2014-10-27 13:11:33 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 I want a faith  

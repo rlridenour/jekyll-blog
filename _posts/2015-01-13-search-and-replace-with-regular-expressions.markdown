@@ -3,7 +3,7 @@ layout: post
 title: "Search and Replace with Regular Expressions"
 date: 2014-09-16 17:06:36 -0600
 comments: true
-tags: Emacs
+tags: emacs
 ---
 
 I wrote the post that follows below so that I could remember how to use regular expressions for search and replace operations in Sublime Text. Since I just now made some headway in Emacs, I'll repost with some updates, again, primarily as a reference for myself.

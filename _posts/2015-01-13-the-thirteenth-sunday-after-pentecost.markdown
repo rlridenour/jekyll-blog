@@ -3,7 +3,7 @@ layout: post
 title: "The Thirteenth Sunday After Pentecost"
 date: 2014-09-16 13:27:08 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Sheri and I recently spent the weekend with some soldiers from my Afghanistan deployment and their families. I wrote this prayer after reflecting on the experience:

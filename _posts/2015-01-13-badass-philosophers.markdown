@@ -3,7 +3,7 @@ layout: post
 title: "Badass Philosophers"
 date: 2014-12-13 09:19:26 -0600
 comments: true
-tags: Philosophy
+tags: philosophy
 ---
 
 

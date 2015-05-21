@@ -2,7 +2,7 @@
 layout: post
 title: Prayer for Mother's Day
 tags:
-- Prayer
+- prayer
 - Religion
 comments: true
 date: 2015-05-10 13:47:15 -0500

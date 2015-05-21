@@ -3,7 +3,7 @@ layout: post
 title: "Love and Attention"
 date: 2014-12-09 09:21:35 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 

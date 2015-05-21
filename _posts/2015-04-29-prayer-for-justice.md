@@ -2,7 +2,7 @@
 layout: post
 title: Prayer for Justice
 tags:
-- Prayer
+- prayer
 - Religion 
 comments: true
 date: 2015-04-29 15:47:59 -0500

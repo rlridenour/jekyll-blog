@@ -2,7 +2,7 @@
 layout: post
 title: Blogging with Jekyll and Working Copy
 tags:
-- Jekyll
+- jekyll
 - iOS
 comments: true
 published: true

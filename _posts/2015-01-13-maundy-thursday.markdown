@@ -3,7 +3,7 @@ layout: post
 title: "Maundy Thursday"
 date: 2014-04-17 16:54:26 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 The one who had already  

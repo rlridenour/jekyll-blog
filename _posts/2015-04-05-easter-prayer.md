@@ -2,7 +2,7 @@
 layout: post
 title: Easter Prayer
 tags:
-- Prayer
+- prayer
 - Religion
 date: 2015-04-05 14:00:29 -0500
 ---

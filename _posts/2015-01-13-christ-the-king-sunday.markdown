@@ -3,7 +3,7 @@ layout: post
 title: "Christ the King Sunday"
 date: 2014-11-26 12:55:57 -0600
 comments: true
-tags: Prayer
+tags: prayer
 ---
 
 Mitch opened his sermon at NorthHaven on Christ the King Sunday recounting the scene at the end of The Return of the King in which Aragorn, the newly crowned king, bows down to the hobbits. That brought to mind their first meeting in The Fellowship of the Ring where Frodo is trying to decide if Aragorn should be trusted:
