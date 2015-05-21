@@ -26,7 +26,7 @@ Trigger warnings serve two purposes. First, they give students the opportunity t
 
 There are some events to which the only appropriate emotional responses are shock and horror. To portray these events in ways that do not elicit shock and horror is to do so in a way that ensures that students fail to have the appropriate moral responses. So, in an effort to avoid emotional harm to students, we have caused moral harm instead. Our goal in Christian education should not be to sanitize the world, but to encounter it as it is in the context of a community of love and grace.
 
-As God's creation, the world is filled with examples of beauty and grace, but in its present fallen state, it is also filled with examples of cruelty and horror. To portray only the horror is to leave students in cynicism and despair; to portray only the beauty is to leave students in idealism and naiveté. Neither genuinely prepares students to deliver the gospel of Christ to a beautiful, yet broken, world.
+As God's creation, the world is filled with examples of beauty and grace, but in its present fallen state, it is also filled with examples of cruelty and horror. To portray only the horror is to leave students in cynicism and despair; to portray only the beauty is to leave students in gullible idealism and naiveté. Neither genuinely prepares students to deliver the gospel of Christ to a beautiful, yet broken, world.
 
 
 
