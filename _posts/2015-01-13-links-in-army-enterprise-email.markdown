@@ -3,7 +3,8 @@ layout: post
 title: "Links in Army Enterprise Email"
 date: 2014-07-31 13:58:12 -0600
 comments: true
-tags: 
+tags:
+- army
 ---
 
 This will probably be useful to only a few people, but maybe it will help someone who is frantically searching the internet for an answer.
