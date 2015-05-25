@@ -2,7 +2,7 @@
 layout: post
 title: Love as Art
 tags:
-- Quotes 
+- quotes 
 comments: true
 date: 2015-05-25 14:55:08 -0500
 ---
