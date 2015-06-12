@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prayer for Our Stories
+title: Lives are Stories — A Prayer
 tags:
 - prayer
 - religion
