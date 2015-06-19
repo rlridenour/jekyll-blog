@@ -86,6 +86,25 @@ blockquote p:last-child {
   }
 }
 
+cite {
+  padding: .4rem 1rem;
+  margin: .8rem 0 0 .5rem;
+  color: #7a7a7a;
+  font-size: 1rem;
+  font-style: normal;
+}
+
+cite:before {
+    content: "\2014 \2009";
+}
+
+@media (min-width: 30em) {
+  cite {
+    padding-right: 5rem;
+    padding-left: 1.25rem;
+  }
+}
+
 blockquote.big { 
     display: block;
     /* font-family: Merriweather, serif; */
@@ -126,24 +145,6 @@ cite.big:before {
     content: "\2014 \2009";
 }
 
-cite {
-  padding: .5rem 1rem;
-  margin: .8rem 0 0 .5rem;
-  color: #7a7a7a;
-  font-size: 1rem;
-  font-style: normal;
-}
-
-cite:before {
-    content: "\2014 \2009";
-}
-
-@media (min-width: 30em) {
-  cite {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
-  }
-}
 
 
 /*****************************************************************************/
