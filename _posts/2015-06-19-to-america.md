@@ -11,19 +11,16 @@ A poem by James Weldon Johnson (June 17, 1871 – June 26, 1938), American autho
 
 Nine people were shot in a historic Charleston, South Carolina, this week, and the evidence points to it being a racist hate-crime. So, 144 years and 1 day after his birth, we are reminded that some things, unfortunately have not changed.
 
-
-from *Fifty Years & Other Poems* (1917)
-
 **To America**
 
-How would you have us, as we are?  
-Or sinking 'neath the load we bear?  
-Our eyes fixed forward on a star?  
-Or gazing empty at despair?
+> How would you have us, as we are?  
+> Or sinking 'neath the load we bear?  
+> Our eyes fixed forward on a star?  
+> Or gazing empty at despair?
+> 
+> Rising or falling? Men or things?  
+> With dragging pace or footsteps fleet?  
+> Strong, willing sinews in your wings?  
+> Or tightening chains about your feet?
 
-Rising or falling? Men or things?  
-With dragging pace or footsteps fleet?  
-Strong, willing sinews in your wings?  
-Or tightening chains about your feet?
-
-
+From *Fifty Years & Other Poems* (1917)
