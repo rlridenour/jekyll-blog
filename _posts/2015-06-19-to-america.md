@@ -23,6 +23,4 @@ Nine people were shot in a historic church in Charleston, South Carolina, this w
 > Strong, willing sinews in your wings?  
 > Or tightening chains about your feet?
 
-Test
-
 <cite>From *Fifty Years & Other Poems* (1917)</cite>
