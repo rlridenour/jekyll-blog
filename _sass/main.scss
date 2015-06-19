@@ -129,6 +129,11 @@ cite {
   margin: .8rem 0 0 .5rem;
   color: #7a7a7a;
   font-size: 1rem;
+  font-style: italic;
+}
+
+cite:before {
+    content: "\2014 \2009";
 }
 
 @media (min-width: 30em) {
