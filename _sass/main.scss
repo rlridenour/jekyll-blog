@@ -67,6 +67,23 @@ pre {
 /*
 /*****************************************************************************/
 
+blockquote {
+  padding: .5rem 1rem;
+  margin: .8rem 0;
+  color: #7a7a7a;
+  border-left: none;
+  font-size: 1.1rem;
+}
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 30em) {
+  blockquote {
+    padding-right: 5rem;
+    padding-left: 1.25rem;
+  }
+}
+
 blockquote.big { 
     display: block;
     /* font-family: Merriweather, serif; */

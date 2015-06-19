@@ -9,7 +9,7 @@ date: 2015-06-19 09:20:07 -0500
 
 A poem by James Weldon Johnson (June 17, 1871 – June 26, 1938), American author, educator, lawyer, diplomat, and civil rights activist.
 
-Nine people were shot in a historic Charleston, South Carolina, this week, and the evidence points to it being a racist hate-crime. So, 144 years and 1 day after his birth, we are reminded that some things, unfortunately have not changed.
+Nine people were shot in a historic church in Charleston, South Carolina, this week, and the evidence points to it being a racist hate-crime. So, 144 years and 1 day after his birth, we are reminded that some things, unfortunately have not changed.
 
 **To America**
 
