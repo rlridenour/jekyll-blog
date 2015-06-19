@@ -72,9 +72,7 @@ blockquote {
   margin: .8rem 0;
   color: #7a7a7a;
   border-left: none;
-  font-size: 1rem;
   font-style: italic;
-
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -88,14 +86,10 @@ blockquote p:last-child {
 
 cite {
   padding: .5rem 1rem;
-  margin: .8rem 0 0 0rem;
+  margin: .8rem 0 0 .1rem;
   color: #7a7a7a;
   font-size: 1rem;
   font-style: normal;
-}
-
-cite:before {
-    content: "\2014 \2009";
 }
 
 @media (min-width: 30em) {
