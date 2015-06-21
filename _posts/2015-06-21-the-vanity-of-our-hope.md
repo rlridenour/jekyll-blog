@@ -2,8 +2,8 @@
 layout: post
 title: The Vanity of Our Hope
 tags:
-- Prayer
-- Religion
+- prayer
+- religion
 comments: true
 date: 2015-06-21 15:10:22 -0500
 ---
