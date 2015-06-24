@@ -41,12 +41,13 @@ I like to start Emacs using the daemon, which keeps an Emacs server running in t
 
 In the past, I've done this from the terminal by putting with these aliases in my zshrc:
 
-```
-alias daemon="emacs --daemon"  
-alias ec="emacsclient -c -a ''"  
-alias ef="emacsclient -c -a '' -F '((fullscreen . maximized))'"  
-alias e="emacsclient -t"
-```
+
+`alias daemon="emacs --daemon"`
+
+`alias ec="emacsclient -c -a ''"`
+`alias ef="emacsclient -c -a '' -F '((fullscreen . maximized))'"`
+`alias e="emacsclient -t"`
+
 
 The first simply starts the server. I never used it, because the second would connect to the server one were already running, otherwise, it would start one, then connect to it. The third does the same thing, but starts an Emacs client with a maximized frame.
 
