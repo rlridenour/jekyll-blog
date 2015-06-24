@@ -42,9 +42,9 @@ I like to start Emacs using the daemon, which keeps an Emacs server running in t
 In the past, I've done this from the terminal by putting with these aliases in my zshrc:
 
 ```
-alias daemon="emacs --daemon"
-alias ec="emacsclient -c -a ''"
-alias ef="emacsclient -c -a '' -F '((fullscreen . maximized))'"
+alias daemon="emacs --daemon"  
+alias ec="emacsclient -c -a ''"  
+alias ef="emacsclient -c -a '' -F '((fullscreen . maximized))'"  
 alias e="emacsclient -t"
 ```
 
