@@ -50,7 +50,6 @@ In the past, I've done this from the terminal by putting with these aliases in m
 
 `alias e="emacsclient -t"`
 
-
 The first simply starts the server. I never used it, because the second would connect to the server one were already running, otherwise, it would start one, then connect to it. The third does the same thing, but starts an Emacs client with a maximized frame.
 
 This worked well, but I usually use Alfred to start applications, not the terminal. After trying many options, I ran across these instructions by [Jesse Haber-Kucharsky](http://blog.haberkucharsky.com/tech/2015/01/26/emacs-on-osx.html ). I created the Emacs Daemon application with one change, instead of using Emacs in /Applications, I had the script point directly to /usr/local/bin/ instead. I created the three shell scripts as directed, but instead of the Emacs-Cocoa application, I created one called "Emacs Client" that started the "ec" script. The daemon runs at startup, then I call Emacs Client from Alfred whenever I want to start Emacs.

@@ -4,10 +4,14 @@ title: Happy Birthday, Sheri!
 tags:
 - family
 comments: true
-published: false
+published: true
 date: 2015-06-25 13:25:50 -0500
 ---
 
+As the moon revolves around the earth,  
+and the earth around the sun,  
+so my life revolves around you,  
+my love.
 
               
 
