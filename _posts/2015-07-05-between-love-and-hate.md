@@ -36,4 +36,4 @@ we will not despair,
 for we know which side   
 you are on.  
 
-Amen
+*Amen*
