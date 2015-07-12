@@ -13,8 +13,3 @@ This is where a tremendous decision takes place: whether we Christians have enou
 </blockquote>
 
 <cite class="big">Dietrich Bonhoeffer, <em>DBW</em>, Vol. 11, 446.</cite>
-
-
-
-
-DBW 11, 446, quoted in Eric Metaxas, Dietrich Bonhoeffer 1906-1945: Martyr, Thinker, Man of Resistance 111-112.
