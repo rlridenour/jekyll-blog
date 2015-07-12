@@ -5,7 +5,7 @@ tags:
 - religion
 - quotes
 comments: true
-date: 
+date: 2015-07-12 14:44:24 -0500
 ---
 
 <blockquote class="big">
