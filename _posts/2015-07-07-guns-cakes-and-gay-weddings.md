@@ -2,8 +2,8 @@
 layout: post
 title: Guns, Cakes, and Gay Weddings
 tags:
-- Relgion
-- Ethics
+- religion
+- ethics
 comments: true
 date: 2015-07-07 11:10:20 -0500
 ---
