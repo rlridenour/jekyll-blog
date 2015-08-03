@@ -23,4 +23,4 @@ When Jesus read a Jubilee text from Isaiah in the synagogue at Nazareth, he didn
 
 May it be so, even today.
 
-[^1]: You can find podcasts of recent sermons, including one of my own [here](http://northhavenchurch.net/podcasts).
+[^1]: You can find podcasts of recent sermons, including one of my own, [here](http://northhavenchurch.net/podcasts).
