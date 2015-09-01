@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to Philosophy Review
+title: PHIL 1043 Review
 ---
 
 Important things to study for students in my sections of Introduction to Philosophy.
