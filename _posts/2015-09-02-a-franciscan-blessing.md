@@ -21,14 +21,14 @@ I can't find the original source of this blessing, but it's attributed to the Fr
 > And exploitation of people,  
 > So that you may work for  
 > Justice, freedom and peace.
->  
+>
 > May God bless you with tears,  
 > To shed for those who suffer pain,  
 > Rejection, hunger and war,  
 > So that you may reach out your hand  
 > To comfort them and  
 > To turn their pain to joy
->  
+>
 > And may God bless you  
 > With enough foolishness  
 > To believe that you can  
