@@ -26,9 +26,36 @@ Important things to study for students in my sections of Introduction to Philoso
 
 ## 8/27 ##
 
+* Explain the divine attributes.
+* Define classical theism.
+* Explain and respond to the paradox of the stone.
+* The Ontological Argument
+    * Explain the Argument.
+    * Explain Gaunilo's objection and Anselm's response.
+    * Explain Kant's objection.
+* The Cosmological Argument
+    * Explain the general structure of cosmological arguments.
+    * Explain Aquinas' Five Ways.
+* Know definitions of
+    * Analytic
+    * Synthetic
+    * A priori
+    * A posteriori
+    * Necessary
+    * Contingent
 
+## 9/1 ##
 
+* Kalaam Argument
+    * Explain the argument.
+* Teleological Argument
+    * Explain the argument.
+    * What are the conditions for a strong argument for analogy?
+    * Evaluate the argument.
+* Argument from Miracles
+    * Explain Hume's objection to the argument from miracles.
+    * Evaluate Hume's objection.
 
-
+## 9/3 ##
 
 
