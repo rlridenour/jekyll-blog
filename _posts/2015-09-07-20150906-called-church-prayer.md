@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20150906-called-church-prayer.md
+title: Hiding in God's Own Sanctuary
 tags:
 - prayer
 - religion
