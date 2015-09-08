@@ -5,7 +5,7 @@ tags:
 - prayer
 - religion
 comments: true
-date: 
+date: 2015-09-07 20:59:39 -0500
 ---
 
 "Where are you?"
