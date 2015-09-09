@@ -58,4 +58,18 @@ Important things to study for students in my sections of Introduction to Philoso
 
 ## 9/3 ##
 
+* Religious Experience
+    * James' four characteristics of mystical experience
+    * James on the evidence that experience has for religious belief 
+* Problem of Evil
+    * Types of evil
+    * Defense vs. theodicy
+    * Three kinds of argument from evil
+    * Know the logical problem of evil as presented in class.
+    * Augustine on the nature of evil
+    * Explain and evaluate the greater goods defense and free will defense
+
+## 9/8 ##
+
+
 
