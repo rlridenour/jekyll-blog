@@ -111,15 +111,15 @@ Important things to study for students in my sections of Introduction to Philoso
 1. Which of the following, if successful, would be the best objection to the Ontological Argument? 
     1. There are cultures with limited, finite gods.
     2. The argument could be used to prove that a greatest conceivable island exists.
-    3. There could note be an infinite series of causes of motion.
-    4. **It is impossible for God to exist.**
+    3. There could not be an infinite series of causes of motion.
+    4. ***It is impossible for God to exist.***
 2. For Pascal, belief in the existence of God 
-    1. **is like making a bet that you cannot lose.**
+    1. ***is like making a bet that you cannot lose.***
     2. is like believing in the existence of a four-sided triangle.
     3. is based on good evidence.
     4. is always irrational.
 5. If a valid argument has a false conclusion, which of the following must be true?
-    6. **It has at least one false premise.**
+    6. ***It has at least one false premise.***
     7. It has all false premises.
     8. None of the above, valid arguments cannot have false conclusions.
 	
