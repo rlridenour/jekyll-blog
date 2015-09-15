@@ -90,8 +90,20 @@ Important things to study for students in my sections of Introduction to Philoso
 * Divine Foreknowledge
     * Define the terms from the handout.
     * Explain the argument for the incompatibility of divine foreknowledge and human free will.
-    * Explain and evaluate
-        * Boethius' response
+
+## 9/15 ##
+
+* Foreknowledge and Free Will
+    * Briefly explain the responses to the argument.
+    * Augustine on time
+    * Explain and evaluate Boethius' response to the incompatibility argument.
+* God and Morality
+    * Explain and evaluate the Socratic method.
+    * Know the outline of the *Euthyphro*.
+    * Know the problems with each of Euthyphro's proposed definitions of piety or holiness.
+    * Divine Command Theory
+        * Explain the theory and the objections to the theory.
+        * Explain Aquinas' approach to the relationship between God and moral truth.
 
 
 # Sample Questions #
