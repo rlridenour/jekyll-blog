@@ -10,7 +10,7 @@ tags: emacs
 
 I have been calling Marked from Emacs using this function that I found in various places on the internet:
 
-```
+{% highlight lisp linenos %}
    ;; C-c m previews Markdown files in marked  
    (defun markdown-preview-file ()  
         "run Marked on the current file and revert the buffer"  
@@ -20,7 +20,7 @@ I have been calling Marked from Emacs using this function that I found in variou
            (shell-quote-argument (buffer-file-name))))  
    )  
    (global-set-key "\C-cm" 'markdown-preview-file)
-```
+{% endhighlight %}
 
 With the most recent update, the application name changed from "Marked" to "Marked 2"&mdash;a small change that broke the function. That should be easy enough to fix, though. So, I changed the application name, and escaped the space with a backslash:
 
