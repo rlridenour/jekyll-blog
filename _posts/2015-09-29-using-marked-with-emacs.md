@@ -51,7 +51,7 @@ With a prefix ARG always prompt for command to use."
 
 The second method is what I currently use. "Control-c o" opens the current file in the default application, which is set in the system. In order for it to work with Markdown files, you'll need to make [Marked][marked] the default application for Markdown files, which means that to open a file for editing from the Finder, you'll need to right-click and select "Open With." The advantage is that you can use the same command from Dired to open PDF's in your preferred PDF reader, Word docs in Word, etc.
 
-[^1]: It's excellence lies partly in the fact that it's not simply a previewer, it also does many other things, like word count, reading analyses, and link validation.
+[^1]: Its excellence lies partly in the fact that it's not simply a previewer, it also does many other things, like word count, reading analyses, and link validation.
 
 [marked]: http://marked2app.com/
 
