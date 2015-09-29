@@ -11,14 +11,14 @@ tags: emacs
 I have been calling Marked from Emacs using this function that I found in various places on the internet:
 
 ```
-   ;; C-c m previews Markdown files in marked
-   (defun markdown-preview-file ()
-        "run Marked on the current file and revert the buffer"
-        (interactive)
-        (shell-command
-        (format "open -a /Applications/Marked.app %s"
-           (shell-quote-argument (buffer-file-name))))
-   )
+   ;; C-c m previews Markdown files in marked  
+   (defun markdown-preview-file ()  
+        "run Marked on the current file and revert the buffer"  
+        (interactive)  
+        (shell-command  
+        (format "open -a /Applications/Marked.app %s"  
+           (shell-quote-argument (buffer-file-name))))  
+   )  
    (global-set-key "\C-cm" 'markdown-preview-file)
 ```
 
