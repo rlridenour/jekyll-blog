@@ -3,14 +3,18 @@ layout: page
 title: PHIL 1043 Review
 ---
 
+
+
 Important things to study for students in my sections of Introduction to Philosophy.
 
-## 8/20 ##
+## Exam 1 ##
+
+### 8/20 ###
 
 * Know definitions of metaphysics, epistemology, and ethics, and be able to identify questions in each.
 * Explain Bacon's four idols of the mind.
 
-## 8/25 ##
+### 8/25 ###
 
 * Know definitions of
     * Valid
@@ -24,7 +28,7 @@ Important things to study for students in my sections of Introduction to Philoso
     * Hasty Generalization
     * Ad Hominem
 
-## 8/27 ##
+### 8/27 ###
 
 * Explain the divine attributes.
 * Define classical theism.
@@ -44,7 +48,7 @@ Important things to study for students in my sections of Introduction to Philoso
     * Necessary
     * Contingent
 
-## 9/1 ##
+### 9/1 ###
 
 * Kalaam Argument
     * Explain the argument.
@@ -56,7 +60,7 @@ Important things to study for students in my sections of Introduction to Philoso
     * Explain Hume's objection to the argument from miracles.
     * Evaluate Hume's objection.
 
-## 9/3 ##
+### 9/3 ###
 
 * Religious Experience
     * James' four characteristics of mystical experience
@@ -69,7 +73,7 @@ Important things to study for students in my sections of Introduction to Philoso
     * Augustine on the nature of evil
     * Explain and evaluate the greater goods defense and free will defense
 
-## 9/8 ##
+### 9/8 ###
 
 * Dostoevsky on evil
     * What does Dostoevsky believe is the mistake made by Ivan in the ``Rebellion'' argument?
@@ -81,7 +85,7 @@ Important things to study for students in my sections of Introduction to Philoso
     * Explain Pascal's Wager
     * Explain and evaluate the doxastic voluntarism and man-gods objections.
 
-## 9/10 ##
+### 9/10 ###
 
 * James
     * Explain the three types of options.
@@ -91,7 +95,7 @@ Important things to study for students in my sections of Introduction to Philoso
     * Define the terms from the handout.
     * Explain the argument for the incompatibility of divine foreknowledge and human free will.
 
-## 9/15 ##
+### 9/15 ###
 
 * Foreknowledge and Free Will
     * Briefly explain the responses to the argument.
@@ -105,6 +109,64 @@ Important things to study for students in my sections of Introduction to Philoso
         * Explain the theory and the objections to the theory.
         * Explain Aquinas' approach to the relationship between God and moral truth.
 
+## Exam 2 ##
+
+### 9/22 ###
+
+* Know the basic positions of:
+    * Thales
+    * Anaximander
+    * Anaximenes
+    * Heraclitus
+    * Parmenides
+* Explain Zeno's arguments against motion.
+* Explain the major claim of the Sophists and what positions it can lead to.
+* Explain the allegory of the cave in Plato's *Republic*.
+
+### 9/24 ###
+
+* What is Descartes' goal in the *Meditations*?
+* Explain the three arguments for skepticism in *Meditation I* and Descartes' responses.
+* Why is belief in self-existence immune from the arguments in *Meditation I*?
+* How does Descartes prove the reliability of the senses? Is he successful?
+
+### 9/29 ###
+
+* What is the difference between rationalism and empiricism?
+* Explain the main points of representationalism.
+* Explain Lock's reasons for denying innate ideas.
+    * Explain Leibniz's response.
+* Explain the difference between primary and secondary qualities.
+* What is Lock's view of substance?
+* What is idealism?
+* How does Berkeley argue for idealism?
+* What problems does idealism have? How does Berkeley respond? What is the problem with Berkeley's response?
+
+### 10/1 ###
+
+* What is the difference between Pyrrhonian and Academic skepticism?
+* What is the difference between relations of ideas and matters of fact for Hume?
+* Explain Hume's view on causation.
+* Explain Hume's argument that induction is not justified.
+* Explain the scientific method. Why can it not prove a hypothesis to be true?
+* What does science assume? Why does this show that faith is reasonable?
+
+### 10/6 ###
+
+* Explain the Copernican Revolution and why Kant thinks that he is doing something similar.
+* Explain the distinction between noumena and phenomena.
+* Explain Reid's critiques of representationalism.
+* What are Reid's first principles?
+* Explain Reid's reasons for rejecting skepticism.
+* What is G.E. Moore's response to skepticism?
+
+### 10/8 ###
+
+* What does Nietzsche mean by "God is dead?"
+* What is Nietzsche's view of truth?
+* What is the overman? How is it related to the doctrine of eternal recurrence?
+* Explain relativism. How can relativism about truth be inconsistent?
+* Explain and evaluate the primary argument for moral relativism.
 
 # Sample Questions #
 
@@ -122,8 +184,6 @@ Important things to study for students in my sections of Introduction to Philoso
     6. ***It has at least one false premise.***
     7. It has all false premises.
     8. None of the above, valid arguments cannot have false conclusions.
-	
-
 
 ## Short Answer ##
 
