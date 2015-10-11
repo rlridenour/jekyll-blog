@@ -11,6 +11,7 @@ date: 2015-10-11 14:05:16
 Holy God,
 
 Forgive us for those times  
+
 When individuality was more  
 important to us than community...
 
