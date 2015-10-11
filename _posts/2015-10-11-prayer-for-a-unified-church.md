@@ -12,13 +12,13 @@ Holy God,
 
 Forgive us for those times  
 When individuality was more  
-important to us than community,
+important to us than community...
 
 When being right was more  
-important to us than being loving,
+important to us than being loving...
 
 When our own agendas were more  
-important to us than your Kingdom.
+important to us than your Kingdom...
 
 When our own labels were more  
 important to us than the name of Christ.
@@ -45,7 +45,7 @@ but one God,
 
 Forever and ever,
 
-Amen.
+*Amen*
 
 
 
