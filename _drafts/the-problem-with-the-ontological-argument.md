@@ -9,14 +9,14 @@ tags:
 published: true
 ---
 
-Here is a simple version loosely based on Plantinga's version in *The Nature of Necessity*
+Here is a simple version of the Ontological Argument loosely based on Plantinga's version in *The Nature of Necessity*:
 
 1. God is a maximally perfect being.
 2. Maximal perfection entails necessary existence.
 3. It is possible that God exists.
 4. Therefore, God exists.
 
-Plantinga argues that it should be understood as an argument for the rationality of religions belief. The argument is valid, and if the premises are rational to believe, the conclusion must also be rational to believe.
+It is common to think that this argument should be understood as a demonstration for the rationality of religions belief. The argument is valid, and if the premises are rational to believe, the conclusion must also be rational to believe.
 
 
 # Argument for Atheism
