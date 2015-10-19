@@ -134,10 +134,10 @@ Important things to study for students in my sections of Introduction to Philoso
 
 * What is the difference between rationalism and empiricism?
 * Explain the main points of representationalism.
-* Explain Lock's reasons for denying innate ideas.
+* Explain Locke's reasons for denying innate ideas.
     * Explain Leibniz's response.
 * Explain the difference between primary and secondary qualities.
-* What is Lock's view of substance?
+* What is Locke's view of substance?
 * What is idealism?
 * How does Berkeley argue for idealism?
 * What problems does idealism have? How does Berkeley respond? What is the problem with Berkeley's response?
