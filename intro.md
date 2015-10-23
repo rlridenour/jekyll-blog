@@ -168,6 +168,22 @@ Important things to study for students in my sections of Introduction to Philoso
 * Explain relativism. How can relativism about truth be inconsistent?
 * Explain and evaluate the primary argument for moral relativism.
 
+### 10/20 ###
+
+* According to Peirce, what mistakes do Descartes and Kant make?
+* What is our epistemological goal, according to Peirce?
+* Explain Peirce's four methods of fixing belief. 
+* Explain and evaluate the three major theories of truth.
+* Explain the difference between James and Peirce on truth.
+
+### 10/22 ###
+
+* What are Descartes' three arguments for dualism. Explain the best one.
+* What is the most significant problem for dualism? How did dualists after Descartes respond?
+* What is Leibniz's Law?
+* What are the weaknesses of materialism?
+
+
 <!-- # Sample Questions # -->
 
 <!-- 1. Which of the following, if successful, would be the best objection to the Ontological Argument?  -->
