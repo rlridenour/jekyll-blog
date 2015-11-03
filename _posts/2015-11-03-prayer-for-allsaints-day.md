@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prayer for All-Saints Day
+title: Prayer for All Saints Day
 tags:
 - prayer
 - religion 
