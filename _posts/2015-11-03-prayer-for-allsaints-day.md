@@ -25,7 +25,7 @@ than being loved,
 and faithfulness more   
 dear than fame. 
 
-Not our idols,   
+Not our idols, Lord,  
 instead, your saints. 
 
 *Amen*
