@@ -40,7 +40,7 @@ the way of love.
 
 And may that love shine so brightly  
 that the entire world will know,  
-that the light still shines in the darkness,  
+the light still shines in the darkness,  
 and the darkness will never defeat it.
 
 Amen
