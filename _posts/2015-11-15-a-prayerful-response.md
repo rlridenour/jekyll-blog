@@ -8,6 +8,8 @@ comments: true
 date: 2015-11-15 19:55:16
 ---
 
+*As we mourn for the lives lost this week in Paris, Lord, hear our prayer.*
+
 Almighty God,
 
 We grieve this week,  
