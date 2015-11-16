@@ -1,0 +1,47 @@
+---
+layout: post
+title: A Prayerful Response
+tags:
+- prayer
+- religion
+comments: true
+date: 2015-11-15 19:55:16
+---
+
+Almighty God,
+
+We grieve this week,  
+crying with those who suffer,  
+lamenting with those who mourn.
+
+Even in our anger,  
+May we always seek justice,  
+and never revenge;  
+healing, not harm;  
+and a measured response,  
+instead of thoughtless reaction.
+
+When circumstances tempt us  
+to sink into the depths of despair,  
+may we hear the prophet's voice,  
+as he surveyed the destruction of Jerusalem  
+yet still found hope,
+
+"The steadfast love of the Lord never ceases,  
+his mercies never come to an end;  
+they are new every morning,  
+great is your faithfulness."
+
+When faced with the choice  
+between burning hatred  
+and callous indifference,  
+remind us again that there is a third way,  
+the way of love.
+
+And may that love shine so brightly  
+that the entire world will know,  
+that the light still shines in the darkness,  
+and the darkness will never defeat it.
+
+Amen
+
