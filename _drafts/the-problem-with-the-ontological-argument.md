@@ -18,7 +18,7 @@ Here is a simple version of the Ontological Argument loosely based on Plantinga'
 3. It is possible that God exists.
 4. Therefore, God exists.
 
-The argument is valid in **S-5**. Given the first two premises, either God exists in no possible world or God exists in all possible worlds. Premise three states that there is a possible world in which God exists, so, God must exist in all possible worlds, including the actual world.
+The argument is valid in **S-5**. Given the first two premises, either God exists in no possible world or God exists in all possible worlds. Premise three states that there is a possible world in which God exists, so, God must exist in all possible worlds, including the actual world.[^3] 
 
 It is common to think that this argument should be understood as a demonstration for the rationality of religious belief. The argument may not be a conclusive proof for the existence of God, but it is deductively valid, and so, if the premises are rational to believe, the conclusion must also be rational to believe. The first two premises are plausible, and the third is a relatively weak claim of logical possibility.
 
@@ -57,7 +57,9 @@ The strategy, though, is not to demand that an opponent grant that the modal pre
 
 *"Surely, you can't be certain that God does not exist, so it must be at least possible that God does exist."*
 
-This, though, makes the modal premise a claim that it is epistemically possible that God exists, but epistemic possibility is not enough to make the argument valid. 
+This, though, makes the modal premise a claim that it is epistemically possible that God exists, but epistemic possibility is not enough to make the argument valid. To say that it is epistemically possible that God exists is just to say that the existence of God is consistent with everything I know to be true. That, though, is not enough to entail that God exists.
 
 
 [^2]: Golbach's Conjecture: every even number greater than 2 can be expressed as the sum of two primes.
+
+[^3]: Let $G$ be the proposition 'God exists' and $\alpha$ be the actual world. If $\Diamond \Box G$ is true in $\alpha$, then $\Box G$ must be true in some world, $w$ accessible to $\alpha$. $G$ is then true in $\alpha$ only if $\alpha$ is accessible to $w$. This requires that the accessbility relation be symmetric, which means that the argument is valid only in *S-5* or *B*. 
