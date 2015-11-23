@@ -22,7 +22,7 @@ to hear a different message,
 one that challenges me  
 to become something  
 better than I have been,  
-and to dismantle my petty kingdom  
+and to dismantle my own petty kingdom  
 for the sake of the Kingdom of God.
 
 *Amen*
