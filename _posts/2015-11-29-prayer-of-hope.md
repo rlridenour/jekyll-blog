@@ -39,5 +39,5 @@ and mends broken spirits.
 
 In the name of Christ,
 
-Amen
+*Amen*
 
