@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prayer Before Travelling
+title: Prayer Before Traveling
 tags:
 - prayer
 - religion
