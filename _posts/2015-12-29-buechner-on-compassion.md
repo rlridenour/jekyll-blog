@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Buechner on Compassion
-tags: quotes
-- 
+tags: 
+- quotes
 comments: true
 date: 2015-12-29 09:39:10
 ---
