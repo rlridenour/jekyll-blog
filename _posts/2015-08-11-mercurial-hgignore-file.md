@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Mercurial HGIgnore File
-tags: mercurial
-- 
+tags: 
+- mercurial
 comments: true
-date: 
+date: 2015-08-11 21:01:27
 ---
 
 I could not figure out why Mercurial was not using my hgignore file. I didn't realize that it needed to be declared in the .hgrc file. Adding
