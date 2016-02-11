@@ -69,13 +69,15 @@ You see, Jesus had this unsettling habit of fulfilling all of the Scriptures, no
 
 The people wanted a warrior, but instead they got a servant. They dreamt of armies and chariots, instead, they got the cross. The cries of hosanna were not praises to the messiah who was in their midst, but acts of worship to an idol of their own creation. The palm branches that they waved were symbols of their idolatrous devotion to the god that they wanted, a god that could be manipulated to achieve their own goals and satisfy their own desires.
 
-Jesus, though, refused to be manipulated. Matthew, Mark, and Luke tell us that, just like the Maccabean revolt, the first thing that Jesus did after entering the city was to cleanse the temple. Unlike the time of the Maccabees, though, the temple had not been defiled by foreigners, but by those who claimed, and probably sincerely believed, that they were doing the work of God. The most dangerous idols, like the most dangerous lies, have an element of truth. Sometimes the most destructive idolatry is the idolatry of our own religion.
+Jesus, though, refused to be manipulated. Matthew, Mark, and Luke tell us that, just like the Maccabean revolt, the first thing that Jesus did after entering the city was to cleanse the temple. Unlike the time of the Maccabees, though, the temple had not been defiled by foreigners, but by those who claimed, and probably sincerely believed, that they were doing the work of God. 
+
+The most dangerous idols, like the most dangerous lies, have an element of truth. Sometimes the most destructive idolatry is the idolatry of our own religion.
 
 The Scripture readings for Ash Wednesday confront us again and again  with this question: who is the true object of our worship? Is it God, or is ourselves? 
 
 Does your Jesus want the very same things you want? Does your Jesus love the same people you love? Does your Jesus hate the same people you hate? Does your Jesus have an agenda that fits easily into your own agenda? Does your Jesus never say anything that makes you uncomfortable? If so, then you may well be following the god you created, not the God who created you. 
 
-Ezekiel's diagnosis is clear — our true idols are ourselves. The people waved their palm branches, not because they wanted to serve Jesus, but because they wanted Jesus to serve them. The objects of our worship are our own hearts — hearts of stone that are cold, hard, dry, brittle, and dead. 
+Ezekiel's diagnosis is clear — our true idols are ourselves. The people waved their palm branches, not because they wanted to serve Jesus, but because they wanted Jesus to serve them. The objects of our worship are our own hearts, hearts of stone that are cold, hard, dry, brittle, and dead. 
 
 The ashes that we use on Ash Wednesday were, just a few hours before, the palm branches from the previous year. Once vibrant and green, but after nearly a year, they are cold, hard, dry, brittle, and dead, perfect symbols of our hearts. The good news of the gospel, though, is that the hard heart can be made soft, dry eyes can again be filled with tears, and a dead faith can certainly be made alive. John's vision in Revelation 7 gives us hope: 
 
