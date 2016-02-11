@@ -12,7 +12,7 @@ date: 2016-02-11 10:11:00
 
 >I will sprinkle clean water upon you, and you shall be clean from all your uncleannesses, and from all your idols I will cleanse you. A new heart I will give you, and a new spirit I will put within you; and I will remove from your body the heart of stone and give you a heart of flesh. (Ezekiel 36:25-26)
 
-Every year, a scene is portrayed in churches around the world. It happened here at NorthHaven exactly 317 days ago, and we will see it again in 38 days. Sometimes the choir processes in, sometimes not; but one thing will very likely happen — children will march in waving palm branches, as these words are either sung or shouted, "Hosanna! Hosanna in the highest! Blessed is he who comes in the name of the Lord!"
+Every year, a scene is portrayed in churches around the world. Sometimes the choir processes in, sometimes not; but one thing will very likely happen — children will march in waving palm branches, as these words are either sung or shouted, "Hosanna! Hosanna in the highest! Blessed is he who comes in the name of the Lord!"
 
 The day, of course, is Palm Sunday, the day that we commemorate the entry of Jesus into Jerusalem. John records the incident in chapter 12 of his Gospel: the crowd had heard that Jesus was coming to Jerusalem. So, John tells us, they took branches of palm trees and went out to meet Jesus, shouting the very same things that we will hear the children shout in a few weeks. In response, the text says that Jesus found a young donkey and sat on it, a fulfillment of the prophecy in Zechariah 9.
 
@@ -83,14 +83,6 @@ The ashes that we use on Ash Wednesday were, just a few hours before, the palm b
 
 >They cried out in a loud voice, saying,  
 >"Salvation belongs to our God who is seated on the throne, and to the Lamb!”
-
->And all the angels stood around the throne and around the elders and the four living creatures, and they fell on their faces before the throne and worshiped God,
-
->singing,  
->“Amen! Blessing and glory and wisdom  
->and thanksgiving and honor  
->and power and might  
->be to our God forever and ever! Amen."
 
 God will redeem the palm branches, and God will redeem our hearts.
 
