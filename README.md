@@ -3,6 +3,7 @@
 These directories and their contents are copyright Randy Ridenour:
 
 * _posts/
+* images
 
 All other files and directories are MIT Licensed. Feel free to use as you like.
 
