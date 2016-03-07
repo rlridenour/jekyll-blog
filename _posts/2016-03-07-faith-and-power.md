@@ -1,0 +1,45 @@
+---
+layout: post
+title: Faith and Power
+tags:
+- prayer
+- religion
+comments: true
+date: 2016-03-07 15:04:45
+---
+
+The text for Mitch Randall's sermon was the story of Simon the magician in Acts 8. As I though about the passage, I was struck by Simon's willingness to pay for the power to confer the Holy Spirit on others, that is, his desire to exchange financial power for religious power. That, in turn, prompted me to think about the current role of religion in politics.
+
+This week's prayer:
+
+
+You know my heart, O Lord.  
+The things that are hidden  
+from me are laid bare  
+before your eyes.
+
+What are the reasons  
+for proclaiming my faith?
+
+Is it for your glory,  
+or for my own?
+
+Is it to welcome  
+others into your kingdom,  
+or to exclude them  
+from mine?
+
+We have turned faith  
+into a commodity,  
+something to buy and sell  
+in the marketplace,  
+and used your holy name   
+as an instrument of  
+worldly  power.
+
+Open my grasping hands,  
+help me to raise them  
+in service to others  
+and in worship to you.
+
+*Amen*
