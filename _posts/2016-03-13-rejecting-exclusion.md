@@ -38,3 +38,5 @@ upon the cross for us,
 but not just for us.
 
 *Amen*
+
+![Embrace](/images/2016/embrace.jpg)
