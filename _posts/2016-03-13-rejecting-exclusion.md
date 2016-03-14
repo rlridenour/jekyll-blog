@@ -37,4 +37,4 @@ upon the cross for us,
 
 but not just for us.
 
-Amen
+*Amen*
