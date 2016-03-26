@@ -13,7 +13,7 @@ with promises of safety and security,
 promises that hold no power   
 unless the people live in fear.
 
-And so, a terrorist was released,  
+And so, a terrorist was released  
 so that the Prince of Peace  
 may be taken to be silenced.
 
