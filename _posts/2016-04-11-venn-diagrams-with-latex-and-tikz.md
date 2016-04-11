@@ -5,8 +5,10 @@ tags:
 - latex
 - logic 
 comments: true
-date: 
+date: 2016-04-11 15:16:22
 ---
+
+I spent the weekend working on venn diagrams in LaTeX using TikZ. I hope that others may find this useful.
 
 ## The Initial Diagram ##
 
@@ -48,6 +50,10 @@ Once the circles have been defined, they can be drawn and labeled. I prefer to u
 
 \end{tikzpicture}
 ```
+
+This produces the following:
+
+![Venn Diagram with Labels](/images/2016/venn-labels.svg)
 
 ## Shading ##
 
@@ -99,60 +105,61 @@ Shading everything that is one circle, but not in another is a bit trickier. It 
 ```
 
 
-To shade S without M:
+To shade *S* without *M*:
 
-
-\begin{scope}[even odd rule]% Shade S without M
+``` tex
+\begin{scope}[even odd rule]% Shade *S* without M
   \clip \mid (-1.5,-1.5) rectangle (1.5,1.5);
   \fill[gray] \sub;
 \end{scope}
+```
 
 
+*M* without *S*:
 
-M without S:
-
-
+``` tex
 \begin{scope}[even odd rule]% Shade M without S
   \clip \sub (-0.5,-3.3) rectangle (2.5,0);
   \fill[gray] \mid;
 \end{scope}
+```
 
 
+*M* without *P*:
 
-M without P:
-
-
+``` tex
 \begin{scope}[even odd rule]% Shade M without P
   \clip \pred (-0.5,-3.3) rectangle (2.5,0);
   \fill[gray] \mid;
 \end{scope}
+```
 
+*P* without *M*:
 
-P without M:
-
-
+``` tex
 \begin{scope}[even odd rule]% Shade P without M
   \clip \mid (-0,-1.5) rectangle (3.5,1.5);
   \fill[gray] \pred;
 \end{scope}
+```
 
 
+Finally, to shade *P* without *S*:
 
-Finally, to shade P without S:
-
-
+``` tex
 \begin{scope}[even odd rule]% Shade P without S
   \clip \sub (0,-1.5) rectangle (3.5,1.5);
   \fill[gray] \pred;
 \end{scope}
+```
 
 
+## Particulars
 
-\section{Particulars}
+\textbf{I} and \textbf{O} sentences require an ``x'' to be placed in some region of the diagram. To do that, just draw a node at the desired location. Here are the locations of the seven sections in the diagram:
 
-\textbf{I} and \textbf{O} sentences require an ``x'' to be placed in some region of the diagram. To do that, just draw a node at the desired location. Here are the locations of the seven sections in the diagram, as found in Figure \ref{fig:particulars}. 
 
-\begin{verbatim}
+``` tex
 \draw (-0.5,0.3) node {1};
 \draw (1,0.3) node {2};
 \draw (2.5,0.3) node {3};
@@ -160,47 +167,22 @@ Finally, to shade P without S:
 \draw (1,-0.6) node {5};
 \draw (1.8,-0.9) node {6};
 \draw (1,-2) node {7};
-\end{verbatim}
+```
 
-\begin{figure}[h]
-\begin{center}
-\begin{tikzpicture}[thick]
-\begin{scope}
-  % Draw the circles
-    \draw \sub;
-    \draw \pred;
-    \draw \mid;  
-% Label the circles
-    \draw (-2,-0) node {$S$};
-    \draw (1,-4) node {$M$};
-    \draw (4,0) node {$P$};
-% Add other labels
-\draw (-0.5,0.3) node {1};
-\draw (1,0.3) node {2};
-\draw (2.5,0.3) node {3};
-\draw (0.2,-0.9) node {4};
-\draw (1,-0.6) node {5};
-\draw (1.8,-0.9) node {6};
-\draw (1,-2) node {7};
-  
-\end{scope}
-
-\end{tikzpicture}
-
-\caption{Particulars}
-\label{fig:particulars}
-\end{center}
-\end{figure}
+![Sections in a Venn Diagram](/images/2016/venn-sections.svg) 
 
 
-\section{Examples}
+
+
+## Examples ##
 
 Here are some examples to show how full arguments are diagrammed. 
 
-\subsection{Celarent (EAE-1)}
+### Celarent (EAE-1) ###
 
-\begin{figure}[h]
-  \centering
+Celarent is a classic first-figure argument that uses both a universal negation and a universal affirmation.
+
+``` tex
 \begin{tikzpicture}[thick]
 
 \begin{scope}
@@ -224,83 +206,24 @@ Here are some examples to show how full arguments are diagrammed.
 \end{scope}
 
 \end{tikzpicture}
-  
-  \caption{Celarent}
-  \label{fig:celarent}
-\end{figure}
+```
 
-\newpage
+This produces the following:
 
-Figure \ref{fig:celarent} is produced by the following code:
-
-% \begin{enumerate}\addtolength{\itemsep}{-0.5\baselineskip}
-% \item No B are C
-% \item \underline{All A are B}
-% \item [$\therefore$] No A are C
-% \end{enumerate}
+![Celarent](/images/2016/venn-celarent.svg) 
 
 
+### Disamis (IAI-3)
 
-\begin{verbatim}
+Disamis is a good example of a universal affirmation with a particular affirmation.
+
+![Disamis](/images/2016/disamis.svg) 
+
+It was made with this code:
+
+``` tex
 \begin{tikzpicture}[thick]
-  \begin{scope}
-    \draw (-2,-0) node {$A$};
-    \draw (1,-4) node {$B$};
-    \draw (4,0) node {$C$};
 
-    \begin{scope}[even odd rule]% Shade S without M
-      \clip \mid (-1.5,-1.5) rectangle (1.5,1.5);
-      \fill[gray] \sub;
-    \end{scope}
-
-    \begin{scope} %Shade intersection of M and P
-      \clip \pred;
-      \fill[gray] \mid;
-    \end{scope}
-
-    \draw \sub;
-    \draw \pred;
-    \draw \mid;
-  \end{scope}
-\end{tikzpicture}
-
-\end{verbatim}
-
-
-\newpage
-\subsection{Disamis (IAI-3)}
-
-\begin{figure}[h]
-  \centering
-  \begin{tikzpicture}[thick]
-
-    \begin{scope}
-      \draw (-2,-0) node {$A$};
-      \draw (1,-4) node {$B$};
-      \draw (4,0) node {$C$};
-
-      \begin{scope}[even odd rule]% Shade M without S
-        \clip \sub (-0.5,-3.3) rectangle (2.5,0);
-        \fill[gray] \mid;
-      \end{scope}
-
-      \draw (1,-.6) node {X};
-
-      \draw \sub;
-      \draw \pred;
-      \draw \mid;
-    \end{scope}
-
-  \end{tikzpicture}
-  
-  \caption{Disamis}
-  \label{fig:disamis}
-\end{figure}
-
-Figure \ref{fig:disamis}  is produced by: 
-
-\begin{verbatim}
-\begin{tikzpicture}[thick]
   \begin{scope}
     \draw (-2,-0) node {$A$};
     \draw (1,-4) node {$B$};
@@ -317,86 +240,32 @@ Figure \ref{fig:disamis}  is produced by:
     \draw \pred;
     \draw \mid;
   \end{scope}
+
 \end{tikzpicture}
+  
+  \caption{Disamis}
+  \label{fig:disamis}
+\end{figure}
+```
 
-\end{verbatim}
+## Scaling
 
-\section{Scaling}
+TikZ graphics can be scaled easily with an option to the tikzpicture environment. This doubles the size of the picture:
 
-TikZ graphics can be scaled easily with an option to the \texttt{tikzpicture} environment. This doubles the size of the picture:
-
-\begin{verbatim}
+``` tex
 \begin{tikzpicture}[thick,scale=2]
-\end{verbatim}
+```
 
 This reduces the size by half:
 
-\begin{verbatim}
+``` tex
 \begin{tikzpicture}[thick,scale=.5]
-\end{verbatim}
+```
 
-Unfortunately, this won't scale the text at the nodes, which will make the labels look ridiculously out of proportion. This can be fixed by adding an option to also scale the nodes.
+Unfortunately, this won't scale the text at the nodes, which will make the labels look ridiculously out of proportion. This can be fixed by adding an option to also scale the nodes. So, this produces a double-size image with proper labels:
 
-\begin{verbatim}
+```
 \begin{tikzpicture}[thick,scale=2, every node/.style={transform shape}]
-\end{verbatim}
-
-Figures \ref{fig:doublescale} and \ref{fig:halfscale} are double and half-size, respectively.
+```
 
 
-\begin{figure}[h]
-  \centering
-\begin{tikzpicture}[thick,scale=2, every node/.style={transform shape}]
-
-\begin{scope}
-    \draw (-2,-0) node {$A$};
-    \draw (1,-4) node {$B$};
-    \draw (4,0) node {$C$};
-
-\begin{scope}[even odd rule]% Shade M without S
-            \clip \sub (-0.5,-3.3) rectangle (2.5,0);
-        \fill[gray] \mid;
-        \end{scope}
-
-\draw (1,-.6) node {X};
-
-\draw \sub;
-\draw \pred;
-\draw \mid;
-\end{scope}
-
-\end{tikzpicture}
-  
-  \caption{Double Scale}
-  \label{fig:doublescale}
-\end{figure}
-
-
-\begin{figure}[h]
-  \centering
-\begin{tikzpicture}[thick,scale=.5, every node/.style={transform shape}]
-
-\begin{scope}
-    \draw (-2,-0) node {$A$};
-    \draw (1,-4) node {$B$};
-    \draw (4,0) node {$C$};
-
-\begin{scope}[even odd rule]% Shade M without S
-            \clip \sub (-0.5,-3.3) rectangle (2.5,0);
-        \fill[gray] \mid;
-        \end{scope}
-
-\draw (1,-.6) node {X};
-
-\draw \sub;
-\draw \pred;
-\draw \mid;
-\end{scope}
-
-\end{tikzpicture}
-  
-  \caption{Half Scale}
-  \label{fig:halfscale}
-\end{figure}
-
-\end{document}
