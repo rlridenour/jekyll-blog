@@ -8,7 +8,7 @@ comments: true
 date: 2016-04-11 15:16:22
 ---
 
-I spent the weekend working on venn diagrams in LaTeX using TikZ. I hope that others may find this useful.
+I spent the weekend working on venn diagrams in LaTeX using TikZ to use when teaching categorical logic. I hope that others may find this useful.
 
 ## The Initial Diagram ##
 
@@ -217,7 +217,7 @@ This produces the following:
 
 Disamis is a good example of a universal affirmation with a particular affirmation.
 
-![Disamis](/images/2016/disamis.svg) 
+![Disamis](/images/2016/venn-disamis.svg) 
 
 It was made with this code:
 
@@ -264,7 +264,7 @@ This reduces the size by half:
 
 Unfortunately, this won't scale the text at the nodes, which will make the labels look ridiculously out of proportion. This can be fixed by adding an option to also scale the nodes. So, this produces a double-size image with proper labels:
 
-```
+``` tex
 \begin{tikzpicture}[thick,scale=2, every node/.style={transform shape}]
 ```
 
