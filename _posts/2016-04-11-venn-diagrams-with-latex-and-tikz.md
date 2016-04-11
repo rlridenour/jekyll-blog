@@ -156,7 +156,7 @@ Finally, to shade *P* without *S*:
 
 ## Particulars
 
-\textbf{I} and \textbf{O} sentences require an ``x'' to be placed in some region of the diagram. To do that, just draw a node at the desired location. Here are the locations of the seven sections in the diagram:
+**I** and **O** sentences require an ``x'' to be placed in some region of the diagram. To do that, just draw a node at the desired location. Here are the locations of the seven sections in the diagram:
 
 
 ``` tex
