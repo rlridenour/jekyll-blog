@@ -60,7 +60,7 @@ This produces the following:
 ### Universal Negations ###
 
 
-Shading is simple with TikZ, and, in most cases, relatively intuitive. To shade an entire circle, use the "\fill" command. For example, "\fill \sub" fills the entire subject circle. To fill the intersection of the subject and predicate circles, we need to tell TikZ to ignore everything that is outside the predicate circle, then fill the subject circle. This is done with the "\clip" command. This code produces shades the intersection of *S* and *P*:
+Shading is simple with TikZ, and, in most cases, relatively intuitive. To shade an entire circle, use the "\fill" command. For example, "\fill \sub" fills the entire subject circle. To fill the intersection of the subject and predicate circles, we need to tell TikZ to ignore everything that is outside the predicate circle, then fill the subject circle. This is done with the "\clip" command. This code shades the intersection of *S* and *P*:
 
 ``` tex
 \begin{tikzpicture}[thick]
@@ -85,7 +85,7 @@ Shading is simple with TikZ, and, in most cases, relatively intuitive. To shade 
 
 ### Universal Affirmations
 
-Shading everything that is one circle, but not in another is a bit trickier. It involves using something called the "even odd rule" in TikZ. This code shades the portion of the subject circle that is not in the predicate circle:
+Shading everything that is one circle, but not in another is a bit trickier. It involves using something called the "even odd rule" in TikZ. Since I don't quite understand how the rule works, this involved a bit of trial-and-error on my part. If there is a more efficient way, then please leave a comment. This code shades the portion of the subject circle that is not in the predicate circle:
 
 ``` tex
 \begin{tikzpicture}[thick]
