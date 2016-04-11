@@ -8,7 +8,7 @@ comments: true
 date: 2016-04-11 15:16:22
 ---
 
-I spent the weekend working on venn diagrams in LaTeX using TikZ to use when teaching categorical logic. I hope that others may find this useful.
+I spent the weekend working on Venn diagrams in LaTeX using TikZ to use when teaching categorical logic. I hope that others may find this useful.
 
 ## The Initial Diagram ##
 
