@@ -32,4 +32,4 @@ work together for good,
 for, to, and through  
 those who love you.
 
-Amen
+*Amen*
