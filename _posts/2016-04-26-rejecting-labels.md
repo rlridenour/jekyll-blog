@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rejecting Labels
+title: For Those Who Are Labeled
 tags:
 - prayer
 - religion 
@@ -35,7 +35,7 @@ those that are imposed,
 And what I am is  
 far less important  
 than what I can be  
-by the grace of God
+by the grace of God.
 
 *Amen*
 
