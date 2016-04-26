@@ -1,0 +1,42 @@
+---
+layout: post
+title: Rejecting Labels
+tags:
+- prayer
+- religion 
+comments: true
+date: 2016-04-26 18:21:48
+---
+
+Almighty God,  
+Lord of all,  
+both the actual   
+and the possible,
+
+I am indignant when   
+labeled by others,   
+put into a box  
+built by those  
+with no idea of  
+who I really am.
+
+And so I define myself,  
+enjoying my freedom  
+to choose my own labels,  
+but even I have no idea  
+of what you will create  
+with me in the future. 
+
+Lord, help me see that  
+labels that are chosen  
+are no less limiting than   
+those that are imposed,
+
+And what I am is  
+far less important  
+than what I can be  
+by the grace of God
+
+*Amen*
+
+
