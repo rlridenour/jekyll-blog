@@ -33,5 +33,5 @@ In the name of Christ,
 the one who gives freedom  
 to all who truly seek it,
 
-Amen
+*Amen*
 
