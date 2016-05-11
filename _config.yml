@@ -25,6 +25,10 @@ sass:
   sass_dir: _sass
   style: :compressed
 
+# Gems
+gems:
+  [jekyll-paginate]
+
 # Prose.io
 prose:
   rooturl: '_posts'

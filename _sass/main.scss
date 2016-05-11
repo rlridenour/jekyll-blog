@@ -5,60 +5,63 @@
 /*****************************************************************************/
 
 html {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+	/* font-family: "Lato", Helvetica, Arial, sans-serif; */
+	font-family: 'Cardo', serif;
+	font-size: 16px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+	/* font-family: "Lato", Helvetica, Arial, sans-serif; */
+	/* font-family: 'Montserrat', sans-serif; */
+	font-family: 'Cardo', serif;
 }
 
 a {
-  color: #336699;
-  text-decoration: none;
+	color: #336699;
+	text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #702a09;
-  text-decoration: none;
+	color: #702a09;
+	text-decoration: none;
 }
 
 @media (min-width: 38em) {
-  html {
-    font-size: 18px;
-  }
+	html {
+		font-size: 18px;
+	}
 }
 
 
 
 .masthead-title {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: #702a09;
-  font-size: 1.5rem;
-  letter-spacing: .09rem;
-  text-transform: uppercase;
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #702a09;
+	font-size: 1.5rem;
+	letter-spacing: .09rem;
+	text-transform: uppercase;
 }
 .masthead-title a {
-  color: #702a09;
+	color: #702a09;
 }
 
 @media (min-width: 38em) {
     .masthead-title {
-    font-size: 2rem;
-  }
+		font-size: 2rem;
+	}
 }
 
 .center {
-  text-align: center;
+	text-align: center;
 }
 
 pre {
-  overflow: auto;
-  white-space: pre;
-  word-break: normal;
-  word-wrap: normal;
+	overflow: auto;
+	white-space: pre;
+	word-break: normal;
+	word-wrap: normal;
 }
 
 /*****************************************************************************/
@@ -68,35 +71,35 @@ pre {
 /*****************************************************************************/
 
 blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0 0 1rem;
-  color: #7a7a7a;
-  border-left: none;
-  font-style: italic;
+	padding: .5rem 1rem;
+	margin: .8rem 0 0 1rem;
+	color: #7a7a7a;
+	border-left: none;
+	font-style: italic;
 }
 blockquote p:last-child {
-  margin-bottom: 0;
+	margin-bottom: 0;
 }
 @media (min-width: 30em) {
-  blockquote {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
-  }
+	blockquote {
+		padding-right: 5rem;
+		padding-left: 1.25rem;
+	}
 }
 
 cite {
-  padding: .5rem 1rem;
-  margin: .8rem 0 0 1rem;
-  color: #7a7a7a;
-  font-size: 1rem;
-  font-style: normal;
+	padding: .5rem 1rem;
+	margin: .8rem 0 0 1rem;
+	color: #7a7a7a;
+	font-size: 1rem;
+	font-style: normal;
 }
 
 @media (min-width: 30em) {
-  cite {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
-  }
+	cite {
+		padding-right: 5rem;
+		padding-left: 1.25rem;
+	}
 }
 
 blockquote.big { 
@@ -130,10 +133,10 @@ blockquote.big:before {
 
 cite.big { 
 	display: block;
-        border-left: none;
-        font-style: normal;
-        margin-left: 1.4rem;
-        position: relative;
+    border-left: none;
+    font-style: normal;
+    margin-left: 1.4rem;
+    position: relative;
 }
 
 cite.big:before {
@@ -160,33 +163,35 @@ cite.big:before {
 /*****************************************************************************/
 
 .sidebar {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
-  font-size: 0.8rem;
+	/* font-family: "Lato", Helvetica, Arial, sans-serif; */
+	/* font-family: 'Montserrat', sans-serif; */
+	font-family: 'Cardo', serif;
+	font-size: 0.8rem;
 }
 
 .sidebar a {
-  font-weight: normal;
-  color: #fff;
+	font-weight: normal;
+	color: #fff;
 }
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: #fff;
-  background-color: #505050;
+	color: #fff;
+	background-color: #505050;
 }
 
 .sidebar-nav-item {
-  letter-spacing: calc(0.08em);
-  text-transform: uppercase;
+	letter-spacing: calc(0.08em);
+	text-transform: uppercase;
 }
 
 .sidebar .social-icons a {
-  color: rgba(255, 255, 255, 0.6);
-  padding-right: 0.75em;
+	color: rgba(255, 255, 255, 0.6);
+	padding-right: 0.75em;
 }
 
 .sidebar .social-icons a:hover {
-  text-decoration: none;
+	text-decoration: none;
 }
 
 
@@ -198,17 +203,17 @@ cite.big:before {
 /*****************************************************************************/
 
 ul.posts {
-  list-style-type: none;
-  margin-bottom: 2rem;
-  padding: 0;
+	list-style-type: none;
+	margin-bottom: 2rem;
+	padding: 0;
 }
 
 ul.posts li {
-  padding: 0.2rem 0;
+	padding: 0.2rem 0;
 }
 
 ul.posts li span {
-  color: silver;
+	color: silver;
 }
 
 /*****************************************************************************/
@@ -218,46 +223,49 @@ ul.posts li span {
 /*****************************************************************************/
 
 .tag-box {
-  list-style: none;
-  margin: 0;
-  padding: 4px 0;
-  overflow: hidden;
-  *zoom: 1;
+	list-style: none;
+	margin: 0;
+	padding: 4px 0;
+	overflow: hidden;
+	*zoom: 1;
 }
 
 .tag-box:before, .tag-box:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
+					 display: table;
+					 content: "";
+					 line-height: 0;
+				 }
 
 .tag-box:after {
-  clear: both;
+	clear: both;
 }
 
 .tag-box.inline li {
-  float: left;
-  font-size: 14px;
-  font-size: 0.875rem;
-  line-height: 2.5;
+	float: left;
+	font-size: 14px;
+	font-size: 0.875rem;
+	line-height: 2.5;
 }
 
 .tag-box a {
-  padding: 4px 6px;
-  margin: 2px;
-  background-color: #e6e6e6;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
-  text-decoration: none;
+	padding: 4px 6px;
+	margin: 2px;
+	background-color: #e6e6e6;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	text-decoration: none;
 }
 
 .tag-box a span {
-  vertical-align: super;
-  font-size: 10px;
-  font-size: 0.625rem;
+	vertical-align: super;
+	font-size: 10px;
+	font-size: 0.625rem;
 }
 
+.pagination-item {
+	font-family: 'Cardo', serif;
+}
 /*****************************************************************************/
 /*
 /* specialty
