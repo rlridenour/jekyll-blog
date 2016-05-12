@@ -71,11 +71,11 @@ a:focus {
 	color: #702a09;
 }
 
-/* @media (min-width: 38em) { */
-/*     .masthead-title { */
-/* 		font-size: 2rem; */
-/* 	} */
-/* } */
+@media (max-width: 640px) {
+    .masthead-title {
+		font-size: 1.4rem;
+	}
+}
 
 .center {
 	text-align: center;
