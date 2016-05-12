@@ -182,7 +182,7 @@ cite.big:before {
     
 /*****************************************************************************/
 /*
-/* sidebar
+/* Sidebar
 /*
 /*****************************************************************************/
 
@@ -200,7 +200,7 @@ cite.big:before {
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-	color: #fff;
+	color: #989898;
 	background-color: #505050;
 }
 
@@ -216,6 +216,16 @@ cite.big:before {
 
 .sidebar .social-icons a:hover {
 	text-decoration: none;
+}
+
+.sidebar-toggle {
+	color: #989898;
+	position: absolute;
+    width: 2.25rem;
+}
+
+.sidebar-toggle:hover {
+	color: #702a09;
 }
 
 
