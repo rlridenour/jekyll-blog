@@ -1,33 +1,14 @@
-/* =Typography
------------------------------------------------------------------------------*/
-/* use Gentium Plus - Regular in .woff format */
-
-
-/*
-@font-face {
-  font-family: GentiumPlus;
-  src: url(http://randyridenour.net/fonts/GentiumPlus-R.woff);
-}
-
- use Gentium Plus - Italic in .woff format 
-
-@font-face {
-  font-family: GentiumPlus;
-  font-style: italic;
-  src: url(http://randyridenour.net/fonts/GentiumPlus-I.woff);
-}
-*/
+/*********/
+/* Fonts */
+/*********/
 
 /* use Linux Libertine - Regular in .woff format */
-
 @font-face {
     font-family: LinLibertine;
 	src: url('../fonts/LinLibertine_R.woff');
 }
 
-
 /* use Linux Libertine - Italic in .woff format */
-
 @font-face {
     font-family: LinLibertine;
 	font-style: italic;
@@ -35,7 +16,6 @@
 }
 
 /* use Linux Libertine - Italic in .woff format */
-
 @font-face {
     font-family: LinLibertine;
 	font-weight: bold;
@@ -43,21 +23,17 @@
 }
 
 /* use Linux Biolinium - Regular in .woff format */
-
 @font-face {
     font-family: LinBiolinum;
 	src: url('../fonts/LinBiolinum_R.woff');
 }
 
 /* use Linux Biolinium - Italic in .woff format */
-
 @font-face {
     font-family: LinBiolinum;
 	font-style: italic;
 	src: url('../fonts/LinBiolinum_RI.woff');
 }
-
-
 
 /*****************************************************************************/
 /*
@@ -89,16 +65,10 @@
 /*****************************************************************************/
 
 html {
-	/* font-family: "Lato", Helvetica, Arial, sans-serif; */
-	/* font-family: 'Cardo', serif; */
 	font-family: 'LinLibertine', serif;
-	/* css font-size: 16px; */
 }
 
 h1, h2, h3, h4, h5, h6 {
-	/* font-family: "Lato", Helvetica, Arial, sans-serif; */
-	/* font-family: 'Montserrat', sans-serif; */
-	/* font-family: 'Cardo', serif; */
 	font-family: 'LinBiolinum', sans-serif;
 }
 
@@ -112,14 +82,6 @@ a:focus {
 	color: #702a09;
 	text-decoration: none;
 }
-
-/* @media (min-width: 38em) { */
-/* 	html { */
-/* 		font-size: 18px; */
-/* 	} */
-/* } */
-
-
 
 .masthead-title {
 	margin-top: 0;
@@ -191,7 +153,6 @@ cite {
 
 blockquote.big { 
     display: block;
-    /* font-family: Merriweather, serif; */
     font-size: 1.2rem;
     border-left: none;
     font-style: italic;
@@ -250,9 +211,6 @@ cite.big:before {
 /*****************************************************************************/
 
 .sidebar {
-	/* font-family: "Lato", Helvetica, Arial, sans-serif; */
-	/* font-family: 'Montserrat', sans-serif; */
-	/* font-family: 'Cardo', serif; */
 	font-family: 'LinBiolinum', sans-serif;
 	font-size: 0.8rem;
 }
@@ -362,7 +320,6 @@ ul.posts li span {
 }
 
 .pagination-item {
-	/* font-family: 'Cardo', serif; */
 	font-family: 'LinBiolinum', sans-serif;
 }
 /*****************************************************************************/
