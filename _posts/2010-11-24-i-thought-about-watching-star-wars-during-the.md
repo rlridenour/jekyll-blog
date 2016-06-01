@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Star Wars
-date: 2010-11-24 17:25:07.000000000 -06:00
+date: 2010-11-24 17:25:07
 tags:
 - film
 comments: true
