@@ -2,6 +2,10 @@
 layout: post
 title: View from Kuwait
 date: 2007-07-24 12:54:48.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>Here is a picture of the scenery in Kuwait...</p>

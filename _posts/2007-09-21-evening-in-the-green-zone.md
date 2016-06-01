@@ -2,6 +2,10 @@
 layout: post
 title: Evening in the Green Zone
 date: 2007-09-21 13:04:32.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>I went to visit some soldiers in the International Zone (otherwise known as the Green Zone) yesterday. It's a very different place to be stationed. The embassy is there, so there are a lot of civilians. It's not an isolated compound like the military bases, so you really feel like you are in an international city, not just an American outpost.</p>

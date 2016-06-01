@@ -2,6 +2,10 @@
 layout: post
 title: Christmas in Baghdad
 date: 2007-12-25 17:26:18.000000000 -06:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>It is Christmas Day, 2007, now almost 8:00 in the evening. We have finished dinner, and now I have returned to the solitude of my trailer. After work on Christmas Eve, I organized a little fellowship gathering behind the building. We ate some snacks, threw horseshoes and darts, and talked around a fire. We then went to the palace for the base candlelight service. The Tongan Marine Choir sang, and everyone had a wonderful time. After the service, we all went to the dining facility to eat dinner together. I then went back to the trailer, and tried to call Sheri, but could not get a good connection. In the meantime, the headquarters called to tell me that an emergency message had come for one of the soldiers. Her brother had died that evening. I went back to the office, talked with her on the phone (she had gone to Balad for a class), then called Sheri.</p>

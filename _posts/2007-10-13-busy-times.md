@@ -2,6 +2,10 @@
 layout: post
 title: Busy Times
 date: 2007-10-13 19:42:10.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>I haven't posted anything in a few days. It's been very busy here. There was a large attack recently that was reported in the news. More than a dozen mortars were lobbed in, and there were several casualties. One of my soldiers was able to treat an injured officer, stabilizing him until the ambulance arrived. No one in my unit was hurt.</p>

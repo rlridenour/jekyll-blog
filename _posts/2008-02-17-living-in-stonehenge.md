@@ -2,6 +2,10 @@
 layout: post
 title: Living in Stonehenge
 date: 2008-02-17 17:23:29.000000000 -06:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 ![Concrete Ghetto](/assets/img_0138.jpg)

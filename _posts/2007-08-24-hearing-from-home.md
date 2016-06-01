@@ -2,6 +2,10 @@
 layout: post
 title: Hearing from Home
 date: 2007-08-24 13:47:29.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>I had to call the office about a student's grade from last semester. I got to talk to several people back at the university. It was sure nice to hear some voices from home. I also got several messages and pictures from colleagues.</p>

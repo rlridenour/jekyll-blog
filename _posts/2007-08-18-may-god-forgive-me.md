@@ -2,6 +2,10 @@
 layout: post
 title: May God Forgive Me
 date: 2007-08-18 07:23:52.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>I may have committed the unpardonable sin. I threw two boxes of books in the dumpster. Or more accurately, I had the sergeant throw two boxes of books in the dumpster. This is the Army, after all.</p>

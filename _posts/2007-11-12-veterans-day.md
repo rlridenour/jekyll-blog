@@ -2,6 +2,10 @@
 layout: post
 title: Veterans Day
 date: 2007-11-12 18:17:26.000000000 -06:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>Veterans Day has come and gone. I attended a very moving ceremony today. Ryan Crocker, the ambassador to Iraq, was the speaker. Generals from Great Britain, Canada, Australia, and the U.S. lay wreaths to commemorate the fallen.</p>

@@ -2,6 +2,10 @@
 layout: post
 title: Ring of Fire
 date: 2007-08-06 15:18:26.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>I just finished supper, and have come back to the office. I'm starting a weekly Bible study this week, and we'll have our first meeting for the night shift tonight.</p>

@@ -2,6 +2,10 @@
 layout: post
 title: In Defense of Subversiveness
 date: 2007-12-07 17:22:36.000000000 -06:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>I recently remarked that a little subversiveness has always been good for the country. Of course, this was meant as a joke, so it's somewhat foolish for me to try to defend the claim. Whether the claim is true depends on how "subversive" is defined. I'm sure that there are many different lexical definitions of "subversive," but, if I remember correctly the word comes from the Latin <em>subvertere</em>, meaning literally "to turn from below." In that sense, democracy is pure subversiveness.</p>

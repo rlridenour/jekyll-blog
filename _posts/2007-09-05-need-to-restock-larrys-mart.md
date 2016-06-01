@@ -2,6 +2,10 @@
 layout: post
 title: Need to Restock Larry's Mart
 date: 2007-09-05 11:40:53.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 

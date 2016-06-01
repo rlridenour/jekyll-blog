@@ -2,6 +2,10 @@
 layout: post
 title: Mustache Month
 date: 2008-02-29 18:11:33.000000000 -06:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>A group of my soldiers declared February to be "Mustache Month." They all grew mustaches, some fairly impressive, and others decidedly less so. They will shave them tomorrow, March 1. This morning, they gathered for a picture and a small ceremony. For some reason, they asked me if I would say a few words on this solemn occasion.</p>

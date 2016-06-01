@@ -2,6 +2,10 @@
 layout: post
 title: Jokes and Prayers
 date: 2007-09-15 15:41:28.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>Thanks for the jokes. So far, they have come from my sister, Rhonda, and her husband, Mark. I'm not sure I can use the Quaker jokes. I might offend any Quakers in the unit. On the other hand, I suppose there aren't many good Quakers in the Army, it being a  pacifist tradition...</p>

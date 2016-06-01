@@ -2,6 +2,10 @@
 layout: post
 title: Good News and Bad News
 date: 2007-09-07 13:34:00.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>As the old line goes, I have some good news and some bad news. The bad news first: it's boring. I'm on one of the largest bases in the country, and there is very little to do here. I was talking to one of my soldiers recently; and he said that it could be worse, we could be in prison. Then he said, "There's a wall around us, with barbed wire on top, and I don't do anything except work, eat, sleep, and go to the gym. Wait a minute, we are in prison!"</p>

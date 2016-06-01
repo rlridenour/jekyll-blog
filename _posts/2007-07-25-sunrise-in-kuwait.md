@@ -2,6 +2,10 @@
 layout: post
 title: Sunrise in Kuwait.
 date: 2007-07-25 05:42:09.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 ![Sunrise in Kuwait](/assets/img_0001.jpg)

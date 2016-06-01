@@ -2,6 +2,10 @@
 layout: post
 title: Being an Army Chaplain
 date: 2007-08-04 15:03:37.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>A former student, Caleb, left a comment to one of the last posts. Caleb is in seminary now, and is a chaplain candidate in the Oklahoma National Guard. There is a great shortage of military chaplains, especially in the Guard and Reserves. I'm grateful for young ministers who are willing to consider and accept the call to chaplaincy service.</p>

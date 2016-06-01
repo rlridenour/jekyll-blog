@@ -2,6 +2,10 @@
 layout: post
 title: Thoughts from Home
 date: 2008-01-30 16:03:09.000000000 -06:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>Being home has been wonderful, but it has also been difficult in ways. I found out that someone read a comment that I left on someone's blog and has tried to stir up controversy. Over the past seven months, I have been shot at, bombed, attacked with rockets and mortars, and almost shot down in a helicopter. I have seen things that are still too painful to recount, things that I have not discussed in this blog. None of these things have been as painful as this incident has been.<br />

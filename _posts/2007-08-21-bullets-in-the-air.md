@@ -2,6 +2,10 @@
 layout: post
 title: Bullets in the Air
 date: 2007-08-21 12:45:02.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>It was an exciting night last night. I had a Bible study in the office at 2000, and caught the 2100 bus back to my quarters. I live in a trailer pretty close to the edge of the camp. As I was walking from the bus stop through this open area to my trailer, a firefight (Armyese for "gun battle") broke out outside the camp. I walked along watching tracers shoot through the sky in the distance. Then I looked up in front of me and saw two go by right in front of me. I decided then that the best course of action was to run behind a wall, and wait for the shooting to end.</p>

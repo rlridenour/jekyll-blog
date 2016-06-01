@@ -2,7 +2,10 @@
 layout: post
 title: Seek and Ye Shall Find...
 date: 2007-06-10 18:42:54.000000000 -05:00
-
+tags:
+- army
+- iraq 
+comments: true
 ---
 <p>It's been a couple of days since I've been able to get online. Friday, I went on a dismounted (no vehicles, the Army still speaks in horse cavalry terms) IED defense range. We were simulating a combat patrol down a road and into a village, and encountered three IED's on the route. When we found one, we were to take appropriate action.</p>
 <p>I was going along with a group led by a young Staff Sergeant, when we spotted an IED. We called the location into the higher headquarters, and then moved to surround the IED. I assumed a position beside the team leader, and asked him where the IED was. He pointed to a spot about 15 feet away. He knew something was wrong when I exclaimed "Oh, crap!" The simulated IED's are harmless in that they will not release shrapnel, but they are large enough to make quite an explosion. We ducked our heads behind a small pile of dirt, and waited for the charge to go off. As the primer burned, we could feel it stinging the inside of our noses and eyes. Then, there was a loud noise and a lot of dirt and rock flying over us. Lots of fun on a training range, but I don't want to experience that in real life.</p>

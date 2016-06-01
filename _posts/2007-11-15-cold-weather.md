@@ -2,6 +2,10 @@
 layout: post
 title: Golf in Baghdad
 date: 2007-11-15 16:29:45.000000000 -06:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>It got cold . Now, we have highs in the 80's and low's in the 50's. I guess that's not so cold, but it is a far cry from the 120's that we had in the summer.</p>

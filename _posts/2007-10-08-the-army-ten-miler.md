@@ -2,6 +2,10 @@
 layout: post
 title: The Army Ten-Miler
 date: 2007-10-08 16:20:52.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>The Army Ten-Miler was held Sunday in Washington. It is the largest ten-mile race in the world; 26,000 were expected to run. Thirty military amputees ran the race, calling themselves the "Parts Missing in Action" group. A great testimony to the perserverance and strength of will of the American Soldier.</p>

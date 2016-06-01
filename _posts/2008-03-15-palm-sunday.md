@@ -2,6 +2,10 @@
 layout: post
 title: Palm Sunday
 date: 2008-03-15 16:40:19.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>I guess that it's time to post some updates. I have been very busy lately, trying to visit all of my soldiers before I turn them over to another chaplain. After my unit had been here for four months, we were given responsibility for about 400 active duty soldiers. They will be here for eight more months after we leave. This week, I made my last troop visitation trip.</p>

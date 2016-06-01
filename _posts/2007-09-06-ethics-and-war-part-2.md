@@ -2,6 +2,10 @@
 layout: post
 title: Ethics and War - Part 2
 date: 2007-09-06 09:21:11.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>War has always been morally complex. In freshman philosophy and upper-level ethics courses, we dream up wild ethical dilemmas that we use to test different moral theories. They are things like being forced to kill an innocent person or let other innocent people die. These dilemmas are interesting to talk about; but we don't worry about them too much, since we rarely face choices like that in normal life. Unfortunately, those dilemmas are common enough in war.</p>

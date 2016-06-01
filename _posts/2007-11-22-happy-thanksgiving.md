@@ -2,6 +2,10 @@
 layout: post
 title: Happy Thanksgiving
 date: 2007-11-22 15:56:59.000000000 -06:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>Thanksgiving began with a 10K race here at the camp. I finished in 52 minutes. Needless to say, I did not win. I did have a good time, though. We had a special Thanksgiving service at 11:00, which was followed by dinner. The dining facilities were decorated very nicely. Then, it was back to work. I walked around the work areas and talked with the troops. Everyone is doing very well. I guess the parade fell through. I'm not sure the Sergeant Major would have appreciated it anyway.</p>

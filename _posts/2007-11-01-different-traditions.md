@@ -2,6 +2,10 @@
 layout: post
 title: Different Traditions
 date: 2007-11-01 14:29:55.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>One thing I love about the chaplaincy is the chance to associate with, worship with, and learn from people from different traditions in Christianity. Today, I chaired a monthly meeting of the ministers from the various congregations. In attendance were a minister from the Gospel congregation, an Episcopal priest, a Roman Catholic priest, a Southern Baptist, and me. The Episcopalian led the devotional, and we had a wonderful time.</p>

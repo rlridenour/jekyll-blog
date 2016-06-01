@@ -2,6 +2,10 @@
 layout: post
 title: Good Friday
 date: 2008-03-21 17:41:31.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>I just finished the Good Friday Tenebrae service. The Tenebrae, or Service of Shadows, has always been a very meaningful service for me. It is a very somber service, as is fitting on Good Friday. A reader reads a passage of Scripture associated with the betrayal, crucifixion, or burial of Jesus, and then blows out one of the candles that provides light for the service. As the readings progress further into the Passion story, the room grows progressively darker. At the end, the final candle is extinguished, and the congregation is to depart in silence.</p>

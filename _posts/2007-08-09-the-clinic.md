@@ -2,6 +2,10 @@
 layout: post
 title: The Clinic
 date: 2007-08-09 10:45:12.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>Here are two pictures from the clinic that we go to on Saturdays. The first is a child who has a new toy. The second is of a group of teenagers who work there. They were just finishing up building a new wheelchair out of a plastic outdoor chair.</p>

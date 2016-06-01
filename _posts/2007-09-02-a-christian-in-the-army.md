@@ -2,6 +2,10 @@
 layout: post
 title: A Christian in the Army
 date: 2007-09-02 14:24:25.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>To be honest, sometimes it is difficult reconciling Christianity with military service. People disagree about Jesus' attitude towards war, but I think that people like John Howard Yoder and Walter Wink make a good case. The most obvious problem is that, regardless what we think Jesus meant, the early church was clearly committed to pacifism. That's not the problem that strikes me today, though.</p>

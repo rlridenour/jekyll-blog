@@ -2,6 +2,10 @@
 layout: post
 title: Old Text, New Meaning
 date: 2007-10-06 13:14:08.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>I generally use the Revised Common Lectionary when I preach. The lectionary is a set of readings for use in the service on Sunday. It is on a three year cycle, and each day has an Old Testament reading, a Psalm, a reading from the Gospels, and a reading from the rest of the New Testament. Lectionary use is fairly rare in my tradition, but I think that it has two advantages. First, there is the comfort of knowing that other churches around the world are using the same texts on that same day. Second, I am forced to preach on passages that I otherwise probably wouldn't consider. </p>

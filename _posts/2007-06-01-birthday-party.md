@@ -2,7 +2,10 @@
 layout: post
 title: Birthday Party
 date: 2007-06-01 03:06:43.000000000 -05:00
-
+tags:
+- army
+- iraq 
+comments: true
 ---
 ![Small Tent](/assets/img_0033-tents_small.jpg)
 

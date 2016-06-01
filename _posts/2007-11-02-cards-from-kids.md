@@ -2,6 +2,10 @@
 layout: post
 title: Cards from Kids
 date: 2007-11-02 15:56:04.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>Someone put a bunch of Veterans' Day cards on my desk. They're all handmade by some kids at an elementary school. I've picked out a few:</p>

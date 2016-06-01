@@ -2,6 +2,10 @@
 layout: post
 title: Return From Exile
 date: 2008-04-06 14:36:57.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 ---
 <p>This should be my last post from Iraq. Soon, we will move out of our trailers and into some tents, awaiting our flight to Kuwait. As I prepared this morning's sermon, it struck me that most of the Old Testament was written with this place as a context. I won't give you the whole sermon, but here are some of the lessons that I've learned.</p>
 <p>First, the practical lessons: 1) You can lose your tolerance for spicy food. 2) They close the latrines for 45 minutes each morning for cleaning. 3) Don't sit in the right rear seat of a UH-60 helicopter. It's not called the "cyclone seat" for nothing. 4) Don't leave the bunker until the "all-clear" signal sounds, even if the rounds have stopped coming in. The first and second lessons are painful ones to learn on the same day. The fourth lesson was one of the most frightening days of my life.</p>

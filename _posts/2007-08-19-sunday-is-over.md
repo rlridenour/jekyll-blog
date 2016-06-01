@@ -2,6 +2,10 @@
 layout: post
 title: Sunday Is Over...
 date: 2007-08-19 14:16:27.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>We just finished the prayer service at the battalion. This is a big base, and there are a lot of different services for different faith groups. So, there's a service for everyone, but some of my soldiers either don't feel that they can get away from the office, or they don't want to go to the chapel. So, we have our own small service at the battalion headquarters.</p>

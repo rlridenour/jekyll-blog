@@ -2,7 +2,10 @@
 layout: post
 title: Services at the Range
 date: 2007-06-03 22:18:20.000000000 -05:00
-
+tags:
+- army
+- iraq 
+comments: true
 ---
 
 

@@ -2,6 +2,10 @@
 layout: post
 title: Another Day in the Life...
 date: 2007-10-28 19:05:10.000000000 -05:00
+tags:
+- army
+- iraq 
+comments: true
 
 ---
 <p>The events of the day, which was a typical Sunday:</p>
