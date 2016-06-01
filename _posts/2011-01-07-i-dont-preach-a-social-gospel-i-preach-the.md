@@ -3,7 +3,7 @@ layout: post
 title: The Gospel, Period
 date: 2011-01-07 17:20:44.000000000 -06:00
 tags:
-- auotes
+- quotes
 comments: true
 
 ---
