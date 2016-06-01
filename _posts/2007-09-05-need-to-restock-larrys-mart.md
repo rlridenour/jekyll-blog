@@ -44,4 +44,6 @@ date: 2007-09-05 11:40:53.000000000 -05:00
 <li class="MsoNormal"><font face="Times New Roman">Eye Drops</font></li>
 </ul>
 <p><font face="Times New Roman">We also could use some new movies for the movie library. We don't need any books. Even without the western romance novels, I have a few hundred books. I could also use some crayons and coloring books for the kids at the clinic. I'll put a picture from our last trip below. If you're interested, send me an e-mail at <a href="mailto:randall.ridenour@sbcglobal.net">randall.ridenour@sbcglobal.net</a> and I'll send you the </font><font face="Times New Roman">address.</font> <font face="Times New Roman"> </font></p>
-<p><font face="Times New Roman"><a href="http://rlridenour.files.wordpress.com/2007/09/giirls.jpg" title="Coloring at the Clinic"><img width="2440" src="{{ site.baseurl }}/assets/giirls.jpg" alt="Coloring at the Clinic" height="1457" style="width:443px;height:270px;" /></a></font></p>
+<p><font face="Times New Roman"><a 
+
+![Coloring at the Clinic](/assets/giirls.jpg)
