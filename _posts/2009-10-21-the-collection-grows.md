@@ -10,4 +10,4 @@ comments: true
 
 <p>The collection grows&hellip;</p>
 
-![It Grows](it-grows.png)
+![It Grows](/images/2009/it-grows.png)

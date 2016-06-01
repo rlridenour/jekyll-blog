@@ -15,4 +15,4 @@ comments: true
 <p>I'm standing by my earlier claim: it's still not art.</p>
 <p>I hope that sale at the dollar store ends soon.</p>
 
-![Another Package](/images/2009/another-package.png)
+![Another Package](/images/2009/another-package.jpg)
