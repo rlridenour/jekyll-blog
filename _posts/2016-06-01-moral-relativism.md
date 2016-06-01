@@ -26,3 +26,4 @@ Why should a claim that something is not objectively true bother someone who rej
 
 Moral relativists are committed to the claim that moral truths are dependent on conceptual schemes, but if that claim is itself dependent on one’s conceptual scheme, then there is a conceptual scheme in which moral relativism is false. So, there is at least one conceptual scheme in which it is true that moral claims are true in every conceptual scheme. The only way that can be true is if moral truths are in fact true in every conceptual scheme. So, moral relativism is false.
 
+Now, the relativist should reply that it is only the normative claims that are dependent on conceptual schemes, the meta-ethical claims are not. That move would circumvent the problem raised in the preceding paragraph. Having made that move, however, the relativist would then have to give up the claim that widespread disagreement is evidence for relativism about a particular domain.
