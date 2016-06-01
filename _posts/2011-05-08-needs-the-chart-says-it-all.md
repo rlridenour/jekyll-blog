@@ -7,6 +7,6 @@ tags:
 comments: true
 
 ---
-<p>[gallery]</p>
-<h1>Needs</h1>
-<p>The chart says it all.</p>
+The chart says it all.
+
+![Needs](/images/2011/needs.png)
