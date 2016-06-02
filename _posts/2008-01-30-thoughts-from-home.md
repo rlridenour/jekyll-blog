@@ -5,6 +5,7 @@ date: 2008-01-30 16:03:09.000000000 -06:00
 tags:
 - army
 - iraq 
+published: false
 comments: true
 
 ---
