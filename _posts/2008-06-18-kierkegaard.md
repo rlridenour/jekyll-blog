@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kierkegaard
+title: Reading Kierkegaard
 date: 2008-06-18 08:57:35.000000000 -05:00
 tags:
 - quotes

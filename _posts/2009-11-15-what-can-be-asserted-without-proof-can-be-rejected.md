@@ -8,8 +8,9 @@ tags:
 comments: true
 
 ---
-<blockquote>What can be asserted without proof can be rejected without proof.</p></blockquote>
-<div class="attribution">
-<p><em>Christopher Hitchens</em></p>
-<p>What proof does he have for this claim? Is it self-referentially incoherent?</p>
-</div>
+<blockquote class="big">What can be asserted without proof can be rejected without proof.</blockquote>
+
+<cite class="big">Christopher Hitchens</cite>
+
+What proof does he have for this claim? Is it self-referentially incoherent?
+

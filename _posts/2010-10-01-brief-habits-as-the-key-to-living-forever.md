@@ -3,7 +3,6 @@ layout: post
 title: Brief Habits as the Key to Living Forever
 date: 2010-10-01 11:58:46.000000000 -05:00
 tags:
-- quotes
 - philosophy 
 comments: true
 
