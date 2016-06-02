@@ -7,5 +7,11 @@ tags:
 comments: true
 
 ---
-<blockquote>We all know well that we can do things for others and in the process, crush them, making them feel that they are incapable of doing things by themselves. To love someone is to reveal to them their capacities for life, the light that is shining in them.</p></blockquote>
-<div class="attribution">Jean Vanier</div>
+<blockquote class="big">We all know well that we can do things for others and in the process, crush them, making them feel that they are incapable of doing things by themselves. To love someone is to reveal to them their capacities for life, the light that is shining in them.</blockquote>
+
+<cite class="big">Jean Vanier</cite>
+
+
+
+
+

@@ -3,7 +3,7 @@ layout: post
 title: Readability
 date: 2009-12-03 21:59:40.000000000 -06:00
 tags:
-- 
+- misc
 comments: true
 
 ---

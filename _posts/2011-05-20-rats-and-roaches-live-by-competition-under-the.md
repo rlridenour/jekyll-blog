@@ -7,5 +7,8 @@ tags:
 comments: true
 
 ---
-<blockquote>Rats and roaches live by competition under the laws of supply and demand; it is the privilege of human beings to live under the laws of justice and mercy.</p></blockquote>
-<div class="attribution">Wendell Berry</div>
+<blockquote class="big">Rats and roaches live by competition under the laws of supply and demand; it is the privilege of human beings to live under the laws of justice and mercy.</blockquote>
+
+<cite class="big">Wendell Berry</cite>
+
+

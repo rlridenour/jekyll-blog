@@ -3,7 +3,11 @@ layout: post
 title: "A Parent's Love"
 date: 2014-07-21 14:00:58 -0600
 comments: true
-tags: 
+tags:
+- ethics
+- politics
+- religion
+comments: true
 ---
 
 Saturday afternoon, protestors lined the bridge at Rogers Avenue and Interstate 44 in Lawton, Oklahoma. They held signs demanding that the children currently detained for illegal immigration be sent back to their home countries.

@@ -7,5 +7,10 @@ tags:
 comments: true
 
 ---
-<blockquote>We should have much peace if we would not busy ourselves with the sayings and doings of others.</p></blockquote>
-<div class="attribution">Thomas à Kempis</div>
+<blockquote class="big">We should have much peace if we would not busy ourselves with the sayings and doings of others.</blockquote>
+
+<cite class="big">Thomas à Kempis</cite>
+
+There's no need to point the irony of posting this.
+
+

@@ -2,6 +2,10 @@
 layout: post
 title: Tradition and Bad Tradition
 date: 2010-02-15 17:18:33.000000000 -06:00
+tags:
+- religion
+- philosophy
+comments: true
 ---
 <p>Recently, I posted a quote on the <a href="http://rlridenour.tumblr.com/">Tumblr</a> page from Jaroslav Pelikan: "The only alternative to tradition is bad tradition." At the time, I realized it needed some explanation, but posted it anyway. Some comments show that the quote is meaningless without some context.</p>
 <p>John Mouracade pointed out that it looks like a false dilemma. A false dilemma is a fallacy committed when one asserts that at least one of two different alternatives must be true, but ignores other alternatives that might also be true. Now, if Pelikan meant to say that the only alternative to <em>good</em> tradition is bad tradition, then it's clearly a false dilemma. Surely, some tradition is neither good nor bad. Pelikan didn't say that, though. He said that the only alternative to tradition (unqualified) is <em>bad tradition</em>. </p>

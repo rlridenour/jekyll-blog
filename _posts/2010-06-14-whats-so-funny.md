@@ -7,7 +7,7 @@ tags:
 comments: true
 
 ---
-<p><a href="http://bit.ly/dpHTYZ">What's so funny?</a>
-<div class="link_description">
-<p>You should see my podcast list.</p>
-</div>
+[Here.](http://bit.ly/dpHTYZ)
+
+You should see my podcast list.
+

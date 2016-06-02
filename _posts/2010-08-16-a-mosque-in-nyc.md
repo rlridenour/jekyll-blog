@@ -3,7 +3,8 @@ layout: post
 title: A Mosque in NYC
 date: 2010-08-16 16:12:00.000000000 -05:00
 tags:
-- 
+- religion
+- politics 
 comments: true
 
 ---

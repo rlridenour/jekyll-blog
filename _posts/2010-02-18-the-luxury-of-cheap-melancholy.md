@@ -2,6 +2,9 @@
 layout: post
 title: The Luxury of Cheap Melancholy
 date: 2010-02-18 21:34:17.000000000 -06:00
+tags:
+- religion
+comments: true
 ---
 <p>Every February, Oklahoma Baptist University celebrates Founders' Day with a special chapel service. This year's service was particularly special, commemorating the 100th anniversary of the school's founding. The service included a reenactment of W.P. Blake and G. Lee Phelps kneeling in prayer on the site in Shawnee, Oklahoma that was to become Oklahoma Baptist University. </p>
 <p>To be honest, I can now remember only a single sentence from either prayer, but it is a sentence that I don't think I will ever forget: <em>"Deliver us from the luxury of cheap melancholy."</em> </p>

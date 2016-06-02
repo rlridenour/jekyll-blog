@@ -7,5 +7,10 @@ tags:
 comments: true
 
 ---
-<blockquote>Nothing true can be said about God from a posture of defense.</p></blockquote>
-<div class="attribution">Marilynne Robinson</div>
+<blockquote class="big">Nothing true can be said about God from a posture of defense.</blockquote>
+
+<cite class="big">Marilynne Robinson</cite>
+
+
+
+

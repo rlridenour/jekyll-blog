@@ -3,7 +3,7 @@ layout: post
 title: Al Staggs in Chapel
 date: 2010-02-17 13:26:45.000000000 -06:00
 tags:
-- 
+- religion 
 comments: true
 
 ---

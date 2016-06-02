@@ -3,7 +3,7 @@ layout: post
 title: Online education more effective than classroom?
 date: 2009-08-20 12:44:47.000000000 -05:00
 tags:
-- 
+- teaching 
 comments: true
 
 ---

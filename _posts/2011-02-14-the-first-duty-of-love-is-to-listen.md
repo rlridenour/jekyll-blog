@@ -7,5 +7,11 @@ tags:
 comments: true
 
 ---
-<blockquote>The first duty of love is to listen.</p></blockquote>
-<div class="attribution">Paul Tillich</div>
+<blockquote class="big">The first duty of love is to listen.</blockquote>
+
+<cite class="big">Paul Tillich</cite>
+
+
+
+
+

@@ -3,7 +3,7 @@ layout: post
 title: Sleep Deprivation
 date: 2011-03-17 19:42:06.000000000 -05:00
 tags:
-- 
+- teaching 
 comments: true
 
 ---

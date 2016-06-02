@@ -3,7 +3,7 @@ layout: post
 title: Danto on Warhol
 date: 2009-09-29 16:19:46.000000000 -05:00
 tags:
-- 
+- quotes 
 comments: true
 
 ---

@@ -7,5 +7,11 @@ tags:
 comments: true
 
 ---
-<blockquote>The way to Christ is first through humility, second through humility, third through humility.</p></blockquote>
-<div class="attribution">Augustine of Hippo</div>
+<blockquote class="big">The way to Christ is first through humility, second through humility, third through humility.</blockquote>
+
+<cite class="big">Augustine of Hippo</cite>
+
+
+
+
+

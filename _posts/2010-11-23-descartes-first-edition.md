@@ -3,7 +3,7 @@ layout: post
 title: Descartes First Edition
 date: 2010-11-23 20:47:14.000000000 -06:00
 tags:
-- 
+- philosophy 
 comments: true
 
 ---

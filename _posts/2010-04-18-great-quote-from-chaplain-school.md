@@ -3,7 +3,7 @@ layout: post
 title: Great Quote From Chaplain School
 date: 2010-04-18 13:32:39.000000000 -05:00
 tags:
-- 
+- army 
 comments: true
 
 ---

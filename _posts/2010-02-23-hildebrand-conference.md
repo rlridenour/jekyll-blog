@@ -3,7 +3,7 @@ layout: post
 title: Hildebrand Conference
 date: 2010-02-23 15:12:01.000000000 -06:00
 tags:
-- 
+- philosophy 
 comments: true
 
 ---

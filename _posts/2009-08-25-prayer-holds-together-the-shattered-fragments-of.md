@@ -7,5 +7,11 @@ tags:
 comments: true
 
 ---
-<blockquote>Prayer holds together the shattered fragments of the creation. It makes history possible.</p></blockquote>
-<div class="attribution">Jacques Ellul (I thought it was fitting, since classes start tomorrow.)</div>
+
+I thought this was fitting, since classes start tomorrow:
+
+<blockquote class="big">Prayer holds together the shattered fragments of the creation. It makes history possible.</blockquote>
+
+<cite class="big">Jacques Ellul</cite>
+
+
