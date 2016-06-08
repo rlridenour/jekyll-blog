@@ -21,28 +21,30 @@ What did I say?
                About our taking pains.
 ```
 
-It renders like this:
+Even though it contains the proper indentation, it renders like this:
 
 What was there wrong?  
                      Something you said just now.  
 What did I say?  
                About our taking pains.
 
-With help from the CSS in the .Ed theme, I can get the indentation right.
+Now, stripping out extra whitespace is generally a good thing, but I don't want it to happen with poetry. With help from the CSS in the .Ed theme, I can get the indentation right.
 
 ``` markdown
 - What was there wrong?
 - {:.indent-10}Something you said just now.
 - What did I say?
-- {:.indent-10}About our taking pains.
+- {:.indent-6}About our taking pains.
 {:.poetry}
 ```
 
-produces
+Ed. sets poetry as an unordered list, with each line as a list item. List style is set to "none" and the indented lines contain an "indent-x" attribute. This produces these properly indented lines:
 
 - What was there wrong?
 - {:.indent-10}Something you said just now.
 - What did I say?
 - {:.indent-65}About our taking pains.
 {:.poetry}
+
+Ed. also contains formatting tools for bibliographies. It's built on [Lanyon](https://github.com/poole/lanyon), the theme that I use, so it was easy for me to just add the CSS that I wanted to my existing site.
 
