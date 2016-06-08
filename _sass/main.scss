@@ -191,7 +191,16 @@ cite.big:before {
     content: "\2014 \2009";
 }
 
-
+.pquote {
+    float: right;
+    width: 15rem;
+    color: #979797;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+    font-style: italic;
+    padding: 1rem;
+	quotes: "\201C""\201D""\2018""\2019";
+}
 
 /*****************************************************************************/
 /*
