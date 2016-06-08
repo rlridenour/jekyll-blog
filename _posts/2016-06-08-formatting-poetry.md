@@ -43,6 +43,6 @@ produces
 - What was there wrong?
 - {:.indent-10}Something you said just now.
 - What did I say?
-- {:.indent-10}About our taking pains.
+- {:.indent-4}About our taking pains.
 {:.poetry}
 
