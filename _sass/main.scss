@@ -191,6 +191,11 @@ cite.big:before {
     content: "\2014 \2009";
 }
 
+cite:before {
+    content: "\2014 \2009";
+}
+
+
 .pquote {
     float: right;
     width: 15rem;
