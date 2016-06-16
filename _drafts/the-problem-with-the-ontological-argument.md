@@ -39,15 +39,15 @@ If the atheist should concede that it's rational to believe the possibility prem
 "Modality" is used in nearly every field, philosophy included. It usually refers to a mode, method, or way in which something is done. In philosophy, modalities express something about what could be, or must be, the case. Here are some examples, with the type of modality in parentheses:
 
 1. It must be the case that either God exists or not. (Logical)
-2. A triangles must have three sides. (Analytic)
+2. A triangle must have three sides. (Analytic)
 3. I could not have had different parents. (Metaphysical)
 4. All other things being equal, one must not break a promise. (Deontic)
 5. Nothing can travel faster than the speed of light. (Physical)
 6. Goldbach's Conjecture might be true, but then again, it might not. (Epistemic)
 
-The first two are straightforward. The third expresses what many have thought to be a metaphysical law about the essentiality of origin. The fourth expresses a moral law, and the fifth expresses a physical law.
+The first two are straightforward. The third expresses what many have thought to be a metaphysical law about the essentiality of origin. The fourth expresses a purported moral law, and the fifth expresses a physical law.
 
-The sixth is interesting, Since Golbach's Conjecture[^2] is claim in mathematics, if it is true, it is necessarily true, and if false, necessarily false. So, this cannot be an expression of logical or metaphysical necessity. Instead, this is an example of what is called an epistemic modality — *for all I know*, Golbach's Conjecture might be false. As one would expect epistemic modalities tend to be used in ordinary conversation much more than metaphysical modalities.
+The sixth is interesting, since Golbach's Conjecture[^2] is claim in mathematics. If it is true, it is necessarily true, and if false, necessarily false. So, this cannot be an expression of logical or metaphysical necessity. Instead, this is an example of what is called an epistemic modality — *for all I know*, Golbach's Conjecture might be false. As one would expect, epistemic modalities tend to be used in ordinary conversation much more than metaphysical modalities.
 
 ## Evaluation of the Argument ##
 
