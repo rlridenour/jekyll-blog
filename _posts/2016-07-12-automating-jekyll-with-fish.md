@@ -12,7 +12,7 @@ date: 2016-07-12 15:07:12
 I thought about writing some scripts in Elisp, but settled on functions in the [Fish](http://fishshell.com/) Shell. The first function creates an appropriately named Markdown file with YAML front-matter. The important parts come from [Marc Ransome](https://gist.github.com/marcransome/6096005):
 
 ``` fish
-function bp -d "Open default editor with date prepended filename and specified title for jekyll posts."
+function draft -d "Open default editor with date prepended filename and specified title for jekyll posts."
 
 cd ~/Dropbox/blog-drafts
 
@@ -49,4 +49,17 @@ echo "---" >> $title
 end
 ```
 
-The other two functions were very simple – one to move a completed draft to the _posts folder, and another to commit the new post and push to Github.
+The other two functions were very simple – one to move a completed draft to the _posts folder, and another to commit the new post and push to Github with the imaginative commit message, "New post":
+
+``` fish
+function post
+   mv $argv ~/Sites/rlridenour.github.io/_posts
+end
+
+function publish
+ cd ~/Sites/rlridenour.github.io
+ git add .
+ git commit -m "New post."
+ git push
+end
+````
