@@ -17,5 +17,7 @@ title: NorthHaven Church Missions Information
 * [Alliance of Baptists](http://allianceofbaptists.org/) 
 * [Central Baptist Seminary](http://cbts.edu/) 
 * [HisNets](http://hisnets.org/)
+* [Center for Children and Families](http://www.ccfinorman.org/ )
+* [Food and Shelter](http://www.foodandshelterinc.org/ )
 
 
