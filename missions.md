@@ -19,5 +19,11 @@ title: NorthHaven Church Missions Information
 * [HisNets](http://hisnets.org/)
 * [Center for Children and Families](http://www.ccfinorman.org/ )
 * [Food and Shelter](http://www.foodandshelterinc.org/ )
+* [Regional Food Bank of Oklahoma](https://www.regionalfoodbank.org )
+* [Cleveland County Habitat for Humanity](http://www.cchfh.org )
+* [Oklahoma Conference of Churches](http://okchurches.org )
+
+
+
 
 
