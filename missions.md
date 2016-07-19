@@ -22,8 +22,4 @@ title: NorthHaven Church Missions Information
 * [Regional Food Bank of Oklahoma](https://www.regionalfoodbank.org )
 * [Cleveland County Habitat for Humanity](http://www.cchfh.org )
 * [Oklahoma Conference of Churches](http://okchurches.org )
-
-
-
-
-
+* [Baptist Women in Ministry](http://bwim.info)
