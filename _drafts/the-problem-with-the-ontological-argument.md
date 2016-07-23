@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-I have been intrigued by the Ontological Argument for the existence of God since I was an undergraduate. I have gone from believing it be sound and persuasive, to believing it to be fallacious and completely unpersuasive, to believing it to be sound, but still completely unpersuasive.
+I have been intrigued by the Ontological Argument for the existence of God since I was an undergraduate. I have gone from believing it be sound and persuasive, to believing it to be fallacious and completely unpersuasive, to believing it to be sound, but still completely unpersuasive. At the moment, I'm just confused.
 
 Here is a simple version of the Ontological Argument loosely based on Plantinga's version in *The Nature of Necessity*:
 
