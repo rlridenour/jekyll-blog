@@ -8,7 +8,7 @@ comments: true
 date: 2016-08-07 19:39:30
 ---
 
-I officiated a wedding for a former student and dear friend yesterday. Here is the prayer and blessing from the ceremony. (For those who haven't taken my existentialism course, "the slanting rays of the sun" is a metaphorical image that Dostoevsky uses in *The Brothers Karamazov*.)
+I officiated a wedding for a former student and dear friend yesterday. Here is the prayer and blessing from the ceremony:
 
 God of grace, hear our prayer,
 
@@ -30,7 +30,7 @@ and surrounded by love.
 Protect, guide, and bless them in their marriage.  
 Surround us all with your love, now and always.
 
-Now, may the slanting rays of the sun   
+Now, may the slanting rays of the sun[^1]   
 light the path before you,  
 as the love of God surrounds you,  
 to guide you on this journey together.  
@@ -39,3 +39,5 @@ from anything that might separate you,
 and shelter you in his love, forever.
 
 *Amen*
+
+[^1]: For those who haven't taken my existentialism course, "the slanting rays of the sun" is a metaphorical image that Dostoevsky uses in *The Brothers Karamazov*.
