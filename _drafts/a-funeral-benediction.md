@@ -8,6 +8,8 @@ comments: true
 date: 2016-08-12 16:23:27
 ---
 
+This is the benediction from a funeral service that I officiated today:
+
 In our blindness,  
 may the light of God  
 keep us from stumbling.  
