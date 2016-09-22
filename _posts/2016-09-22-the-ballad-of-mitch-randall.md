@@ -10,9 +10,9 @@ date: 2016-09-22 10:18:46
 (Sung to the tune of "John Henry")
 
 When Mitch Randall was a little baby,  
-Sitting on his Father's knee.  
+sitting on his father's knee.  
 He tied a ribbon on his finger,  
-And he held it in the air,  
+and he held it in the air.  
 Said, this bow tie's gonna be the death of me, Lord, Lord  
 This bow tie's gonna be the death of me.
 
@@ -25,7 +25,7 @@ He'd tie that silk to anything he could reach,
 the table leg,  
 the chair leg,  
 the dog's leg,  
-his Father's leg.
+his father's leg.
 
 Nice neat bows,  
 straight,  
@@ -34,9 +34,9 @@ even on both sides.
 And then one day,
   
 He was standing in front of the mirror,  
-Seeing what he could see.  
+seeing what he could see.  
 He tied that piece of ribbon right around his neck, and said,  
-This is the look for me, Lord, Lord,  
+this is the look for me, Lord, Lord.  
 This is the look for me.
   
 So, he started wearing a bow tie to church.  
@@ -44,15 +44,15 @@ Everybody thought it was cute.
 Then he wore it to school.  
 That was not so cute.  
 When he started wearing it with his baseball uniform,  
-Everybody thought it was just a little weird.
+everybody thought it was just a little weird.
 
 
 When the other kids started to tease him  
-His Dad decided to have a talk  
-He said, Son,  
-that may be the look down in Texas, Austin  
-but this is Oklahoma, 1970,  
-It's not that progressive a state.  
+His dad decided to have a talk.   
+He said, son,  
+that may be the look down in Texas, Austin, that is,  
+but this is Oklahoma, 1975.  
+It's just not that progressive a state.  
 But here's what I want you to remember:
   
 Don't let them make fun of your bow tie,  
@@ -61,7 +61,7 @@ So, when you wear a bow tie round your neck,
 You gotta wear it with your head held high, Lord, Lord.  
 Wear it with your head held high.
   
-Then he went off to college,  
+Then he went off to college.  
 As it was for many young people,  
 college was a place for experimenting,  
 pushing the envelope,  
@@ -73,11 +73,11 @@ plaids,
 polka dots,  
 paisleys,  
 there were parts of town where you could slip a man five bucks  
-and he'd give a floral pattern tie.
+and he'd give you a floral pattern tie.
 
-Seminary was tough, though.  
-Cause this was Fort Worth,  
-Where they were their hair short,  
+Seminary was tough, though,  
+cause this was fort worth,  
+where they wore their hair short,  
 And their ties long.  
 He felt alone,  
 nobody understood.  
@@ -87,7 +87,7 @@ he learned about the Baptist Joint Committee,
 with men like James Dunn and Brent Walker,  
 who wore their bow ties in the service of the Lord.
 
-And, hallelujah, Mitch had found his calling.
+And, hallelujah, Mitch had found his calling!
   
 When he saw the men with the bow ties,  
 He said, you know I got to go,  
@@ -111,39 +111,39 @@ good-looking ties.
 
 Everything was good, until...
   
-In one day, walked Bryan Partridge.  
-With a smile on his face,  
+In one day, walked Bryan Partridge,  
+With a smile on his face.  
 The bow tie that we saw, was completely without flaw.  
 And the challenge had been thrown down, Lord, Lord.  
 The challenge had been thrown down.
 
 Yes, my friends, it was the beginning of the end.  
 The old ways were dying,  
-Passing away before a new generation.  
+passing away before a new generation.  
 The age of the clip-on had come.
 
 And Mitch Randall said to Bryan Partridge,  
-I don't care if my tie is a wreck,  
+I don't care if my tie is a wreck.  
 Before I put that clip-on on my shirt,  
 I'll die with a bow tie round my neck, Lord, Lord.  
 I'll die with a bow tie round my neck.
 
-They decided to have a contest  
+They decided to have a contest.   
 Whoever could put on the most ties in an hour  
-Would be the NorthHaven champion.  
-It was old-school vs. the young upstart
+would be the NorthHaven champion.  
+It was old-school vs. the young upstart.
 
 And so, Mitch Randall, he started tying.  
 His fingers went round and round.  
 But he couldn't make it last,  
-Cause the clip-on was so fast.  
+cause the clip-on was so fast.  
 It left poor Mitch on the ground, Lord, Lord.  
 It left poor Mitch on the ground.
 
 He couldn't keep up the pace  
-With those small, delicate ties  
-He needed something bigger, easier to grasp  
-So, he reached for the secret weapon  
+With those small, delicate ties.  
+He needed something bigger, easier to grasp.  
+So, he reached for the secret weapon,  
 The Barnum and Bailey special.
 
 But when he wrapped that clown tie around his neck,  
@@ -152,7 +152,7 @@ Disaster struck.
 Then his tie got caught in the shredder,  
 and it pulled his head straight down.  
 And the next thing that we knew,  
-It looked like he was through.  
+it looked like he was through.  
 We'd have to plant poor Mitch in the ground, Lord, Lord.  
 We'd have to plant poor Mitch in the ground.
 
@@ -161,11 +161,11 @@ One person screamed.
 Another person laughed.  
 (One of those was Cheryl, another was Kim. I'll let you decide which was which.)  
 And then Sheri walked into the room.  
-She muttered something about boys and their foolishness,  
-And cut the bow tie clean in half with a pair of scissors.
+she muttered something about boys and their foolishness,  
+and cut that bow tie clean in half with a pair of scissors.
 
 Then Mitch Randall said to Bryan Partridge,  
 Lord knows, I've been a fool.  
-Well, before I die with a ribbon round my neck,  
+Well, before I die with a bow tie round my neck,  
 I'm gonna get me clip-on too, Lord, Lord.  
 I'm gonna get me clip-on too.
