@@ -2,9 +2,10 @@
 layout: post
 title: The Eyes of Faith
 tags:
-- 
+- prayer
+- religion
 comments: true
-date: 
+date: 2016-09-27 07:32:46
 ---
 
 Creator God,
