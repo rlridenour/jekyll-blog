@@ -14,7 +14,7 @@ True, but it's a classic error in statistical reasoning. The vast majority of dr
 
 Whites comprise 62% of the population, while African-Americans are only 13%. Of people killed by police officers, 49% are white and 24% are black. Since Jan 1, 2015, roughly 1,500 people have been shot and killed by police in the United States.[^1] This tells us that a person who has been killed by police is twice as likely to be white than black, exactly as the commenter stated. As is often the case with statistics, though, what we're given is not what we want to know, but can be used to derive what we want to know.
 
-Let \(W\) be white, \(B\) be black, and \(K\) be killed by police. The probability that someone is white if they are killed by police, $\Pr (W \vert K)$, is 0.49. The probability that someone is black if they are killed by police, $\Pr (B \vert K)$, is 0.24. What wee need to know, though, is the probability that someone will be killed by police given that their race. To do this, we need to use Bayes' theorem.
+Let \( W \) be white, \(B\) be black, and \(K\) be killed by police. The probability that someone is white if they are killed by police, $\Pr (W \vert K)$, is 0.49. The probability that someone is black if they are killed by police, $\Pr (B \vert K)$, is 0.24. What wee need to know, though, is the probability that someone will be killed by police given that their race. To do this, we need to use Bayes' theorem.
 
 $$ \Pr (K \vert R) = \Pr (K) \times \frac{\Pr (R) \vert (K)}{\Pr (R)}$$
 
