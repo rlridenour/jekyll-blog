@@ -31,4 +31,8 @@ That is, a person that is an African-American is 2.34 times more likely to be ki
 
 All lives do indeed, objectively, equally matter. Unfortunately, though, we must confess that America has a history of black lives not mattering subjectively to those who have held social power. When a truth has been ignored, even suppressed, for so long, it must be emphasized to gain its rightful standing in our social reality. To do otherwise, that is to simply say "All lives matter," is to maintain an unjust status quo that serves the interests of some, but not all Americans.
 
+**UPDATE** (*October  2, 2016*): I want to be careful to note what I am arguing here, and more importantly what I am *not* arguing. I am merely pointing out the fairly trivial claim that $$\Pr(A \vert B)$$ does not necessarily equal $$\Pr(B \vert A)$$, and, in this case, actually does not.
+
+I am not accusing the police of being racist, and I have not endeavored to show that anyone has been unjustly shot. I am simply showing that, even though more white Americans are killed by police, black Americans are more likely to be killed by police. There are many possible explanations for this, ranging from racial bias in the police force to high rates of violent crime in predominately African-American communities. There are significant studies that conclude that the former is more likely than the latter to be the correct explanation, but that will have to wait for another post.
+
 [^1]: Wesley Lowery, [*The Washington Post*](https://www.washingtonpost.com/news/post-nation/wp/2016/07/11/arent-more-white-people-than-black-people-killed-by-police-yes-but-no/?utm_term=.6664411d9967&wpisrc=nl_most&wpmm=1), July 11, 2016.
