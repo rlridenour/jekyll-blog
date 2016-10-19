@@ -21,7 +21,7 @@ $$ \Pr (K \vert R) = \Pr (K) \times \frac{\Pr (R \vert K)}{\Pr (R)}$$
 
 Since $$\Pr(K)$$ is the same for both whites and blacks, we can safely ignore it when determining how much more likely a person is to be killed given that their race. We simply need to compare $$\frac{\Pr (W \vert K)}{\Pr (W)}$$ to $$\frac{\Pr (B) \vert (K)}{\Pr (B)}$$.
 
-$$\frac{\Pr (W) \vert (K)}{\Pr (W)} = \frac{0.49}{0.62} = 0.79$$
+$$\frac{\Pr (W \vert K)}{\Pr (W)} = \frac{0.49}{0.62} = 0.79$$
 
 On the other hand,
 
