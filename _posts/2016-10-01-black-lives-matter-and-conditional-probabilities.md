@@ -17,15 +17,15 @@ Whites comprise 62% of the population, while African-Americans are only 13%. Of 
 
 Let $$W$$ be white, $$B$$ be black, and $$K$$ be killed by police. The probability that someone is white if they are killed by police, $$\Pr (W \vert K)$$, is 0.49. The probability that someone is black if they are killed by police, $$\Pr (B \vert K)$$, is 0.24. What we need to know, though, is the probability that someone will be killed by police given their race. To do this, we need to use Bayes' theorem.
 
-$$ \Pr (K \vert R) = \Pr (K) \times \frac{\Pr (R) \vert (K)}{\Pr (R)}$$
+$$ \Pr (K \vert R) = \Pr (K) \times \frac{\Pr (R \vert K)}{\Pr (R)}$$
 
-Since $$\Pr(K)$$ is the same for both whites and blacks, we can safely ignore it when determining how much more likely a person is to be killed given that their race. We simply need to compare $$\frac{\Pr (W) \vert (K)}{\Pr (W)}$$ to $$\frac{\Pr (B) \vert (K)}{\Pr (B)}$$.
+Since $$\Pr(K)$$ is the same for both whites and blacks, we can safely ignore it when determining how much more likely a person is to be killed given that their race. We simply need to compare $$\frac{\Pr (W \vert K)}{\Pr (W)}$$ to $$\frac{\Pr (B) \vert (K)}{\Pr (B)}$$.
 
 $$\frac{\Pr (W) \vert (K)}{\Pr (W)} = \frac{0.49}{0.62} = 0.79$$
 
 On the other hand,
 
-$$\frac{\Pr (B) \vert (K)}{\Pr (B)} = \frac{0.24}{0.13} = 1.84$$
+$$\frac{\Pr (B \vert K)}{\Pr (B)} = \frac{0.24}{0.13} = 1.84$$
 
 That is, a person that is an African-American is 2.34 times more likely to be killed by police than a White-American.
 
