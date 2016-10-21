@@ -14,8 +14,10 @@ In response, a friend said that, although my claim was technically true, the maj
 
 It is true that CGI and the Library are two of the largest program expenditures of the Clinton Foundation, ranking second and third, respectively. They are not even remotely close to the majority of expenditures, however. Even together, they account for, at most, only 18% of the Foundation's annual expenditures.[^1] 
 
-Now, I'm not defending the spending of the Clinton Foundation.[^2] I have no idea how effective its charitable work is. The point is that too many people (myself included, to be honest) simply share, retweet, or repost anything that is consistent with our own biases without checking the material for accuracy, even when verification would be relatively simple. This is called confirmation bias, something that we all must take care to minimize.
+Now, I'm not defending the spending of the Clinton Foundation.[^2] I have no idea how effective its charitable work is. The point is that too many people (myself included, to be honest) simply share, retweet, or repost anything that is consistent with our own biases without checking the material for accuracy, even when verification would be relatively simple. This is called confirmation bias, something that we all must take care to minimize. Remember Reagan's dictum, "Trust, but verify."[^3]
 
 [^1]: The annual reports and audited financial statements of the [Clinton Foundation](https://www.clintonfoundation.org/about/annual-financial-reports) show that CGI and the Library combined accounted for 14.8% to 18% of program expenditures over the last three years. The Foundation publishes financial reports back to 1998.
 
-[^2]: I'm also not defending the Clintons. I have long thought them to be a symptom of the major problem of American politics — the undue influence of money in politics.
+[^2]: I'm also not defending the Clintons. I have long thought them to be a symptom of the major problem of American politics, the undue influence of money in politics.
+
+[^3]: There's a nice piece on that phrase in the [Washington Post](https://www.washingtonpost.com/opinions/trust-but-verify-an-untrustworthy-political-phrase/2016/03/11/da32fb08-db3b-11e5-891a-4ed04f4213e8_story.html?utm_term=.d4b274fc7770).
