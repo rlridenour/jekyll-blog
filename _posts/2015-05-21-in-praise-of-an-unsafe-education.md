@@ -14,7 +14,7 @@ I was excited to see this excerpt from Neil Gaiman's new book recently in [USA T
 
 A trigger warning is a statement that a film or work of literature portrays  scenes that some may find disturbing, especially for those who have experienced similar events themselves. Like Gaiman, I have conflicted feelings about trigger warnings.
 
-On one hand, we ought to be sensitive to the emotional needs of others. Several years ago, I was at a conference with an Army colleague who had lost friends in the Korangal Valley of Afghanstain. When the speaker began showing clips from the documentary [*Restrepo*](http://restrepothemovie.com), I watched my colleague appear increasingly uncomfortable.  From her reaction, I don't think she was prepared to relive those experiences, especially in public.
+On one hand, we ought to be sensitive to the emotional needs of others. Several years ago, I was at a conference with an Army colleague who had lost friends in the Korangal Valley of Afghanistan. When the speaker began showing clips from the documentary [*Restrepo*](http://restrepothemovie.com), I watched my colleague appear increasingly uncomfortable.  From her reaction, I don't think she was prepared to relive those experiences, especially in public.
 
 On the other hand, it seems that many of the trigger warnings used today in higher education, or at least Christian higher education, are not used to protect those who have had disturbing experiences in the past. Instead, they are used to protect innocent minds from having particular kinds of experiences at all, like hearing vulgar speech or seeing a nude body. Such trigger warnings are concessions to those who want education to be safe, and students to be protected from the vulgar, profane, and offensive.
 
