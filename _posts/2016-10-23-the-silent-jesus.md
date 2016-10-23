@@ -5,7 +5,7 @@ tags:
 - prayer
 - religion
 comments: true
-date: 
+date: 2016-10-23 07:31:01
 ---
 
 God of Grace,
