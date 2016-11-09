@@ -21,5 +21,7 @@ There are times, though, when even that is not enough. For those times, you need
 
 >"May you find what you are looking for."
 
+Early this morning, Donald Trump delivered his acceptance speech after winning the 2016 United States presidential election. 
+
 These are interesting times indeed.
 
