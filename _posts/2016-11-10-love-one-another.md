@@ -8,7 +8,7 @@ comments: true
 date: 2016-11-10 16:10:27
 ---
 
-There are circumstances during which my failure becomes clearly evident, and the events of the past few days give me needed opportunity to reflect on that failure.
+There are circumstances during which my failure becomes clearly evident, and the events of the past few days have given me needed opportunity to reflect on that failure.
 
 God's commandment is to love — a commandment given not to an abstract entity such as government or the church, but a commandment given to me. 
 
@@ -27,7 +27,7 @@ may we drink deeply
 from your sacred tears.  
 
 If we are to live together,  
-may we feast on your love;  
+may we feast on your love,  
 knowing that there is one rule  
 at the table of the Lord:
 
