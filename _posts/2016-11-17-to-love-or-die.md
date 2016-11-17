@@ -18,7 +18,8 @@ date: 2016-11-17 15:28:51
 - Hunger allows no choice
 - To the citizen or the police;
 - We must love one another or die.
-- 
+{:.poetry}
+
 - Defenseless under the night
 - Our world in stupor lies;
 - Yet, dotted everywhere,
