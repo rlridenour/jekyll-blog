@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Houseman on Thought
+title: Housman on Thought
 tags:
 - quotes
 comments: true
