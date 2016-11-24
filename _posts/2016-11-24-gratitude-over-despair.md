@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Thanksgiving Day Prayer"
-date: 2014-11-27 12:51:35 -0600
+title: Gratitude Over Despair
+tags:
+- prayer
+- religion
 comments: true
-tags: prayer
+date: 2016-11-24 14:08:04
 ---
+
+This prayer is from 2014, but somehow seems fitting again this year:
 
 Gracious God,
 
