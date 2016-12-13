@@ -31,10 +31,10 @@ So, as we search for meaning this Christmas season, may we look beyond the birth
 
 Prayer:
 
-May I come to Christmas this year
-seeing not the image I have created,
-but the Christ begotten of the Father,
-recognizing that the manger of Bethlehem
+May I come to Christmas this year  
+seeing not the image I have created,  
+but the Christ begotten of the Father,  
+recognizing that the manger of Bethlehem  
 was but the first stop on the journey to the cross.
 
 *Amen*
