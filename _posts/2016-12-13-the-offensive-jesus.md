@@ -12,7 +12,7 @@ The Gospel text for the third Sunday of Advent in year A is Matthew 11:2-11, whi
 
 The third chapter of Matthew records John speaking of the wrath to come and the unquenchable fire that will be used to burn the chaff. It appears that the messiah that John got did not look much like the messiah that John expected. 
 
-Too often, our celebration of Christmas shows that we, like John, also would prefer another messiah. To paraphrase Ricky Bobby in Talladega Nights, we like the Christmas Jesus best – the sweet, calm, beautiful, inoffensive, unchallenging, non-threatening Jesus of the carol "Silent Night."
+Too often, our celebration of Christmas shows that we, like John, also would prefer another messiah. To paraphrase Ricky Bobby in Talladega Nights, we like the Christmas Jesus best – the sweet, calm, beautiful, inoffensive, unchallenging, non-threatening Jesus of the carol "Silent Night." This Jesus doesn't call us to follow him, for he never leaves the manger, and certainly doesn't go to the cross. We are like John Updike's title character in *Rabbit, Run*, who "...has no taste for the dark, tangled, visceral aspect of Christianity, the going through quality of it, the passage into death and suffering that redeems and inverts these things."
 
 The babe born in Bethlehem, though, would soon become the one who offended religious sensibilities and challenged the power structures of the day. In his own words, he came to preach good news to the poor and to liberate the oppressed. He was perceived by the Romans to be such a political threat that he was executed on a cross. It could very well be the case that the only person in Matthew's birth narrative to truly understand the implications of the event was Herod.
 
