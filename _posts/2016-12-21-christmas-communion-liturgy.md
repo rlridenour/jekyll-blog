@@ -47,5 +47,5 @@ Just as his body was broken, his blood was shed, and God died, so that we may li
 
 Drink, and give thanks.
 
-Amen
+*Amen*
 
