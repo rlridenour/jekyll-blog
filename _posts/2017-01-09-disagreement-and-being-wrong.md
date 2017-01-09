@@ -18,7 +18,7 @@ The graphic shows two people on opposite ends of an ambiguous figure on the grou
 >People having an uninformed opion about something they don't understand and proclaiming their opinion as being equally valid as facts is shat is ruining the world. No one wants to do any research, they just want to be right.
 
 
-There are number of things wrong here. First, the small and uninteresting problems:
+There are number of things wrong here. First, the minor and less interesting problems:
 
 1. The distinction between opinion and fact — an opinion is just something someone believes. A fact is something that is the case. True opinions express facts; false ones do not. So, an opinion can very well be as "valid" as a fact, if it indeed expresses a fact.
 2. I do think that people having uninformed (I assume that is what was meant, not "uniformed") opinions is bad, however, I suspect there are worse problems in the world. Failure to be informed is not evidence that people want to be right, but that they want to win. There's an important difference.
@@ -31,7 +31,7 @@ Another possibility, imagine that the two people live directly across the street
 
 To the broader point communicated by the original statement:
 
-We've all probably had disagreements that seemed irresolvable. Then, after some patient discussion, one person says, "You know, I think we're really saying the same thing." We often find that there are different ways to the same thing. One being right does not mean that the others are wrong.
+We've all probably had disagreements that seemed irresolvable. Then, after some patient discussion, one person says, "You know, I think we're really saying the same thing." We often find that there are many different ways to express the same thought. One way being right does not mean that the others are wrong.
 
 Statements also have meaning relative to a linguistic context. We may assume the other is wrong, but we've just misunderstood the context. For example, one person says that it is 25 degrees outside, but another says that it is -4. Can they both be right? Of course, if they are assuming different temperature scales.
 
@@ -45,4 +45,3 @@ To know if someone's being right entails that another person is wrong, I have to
 
 In the end, then, it is both one person's being right and facts about context that determine if the other person must be wrong. So, the original statement stands, one person's being right is not alone enough to guarantee that another person is wrong. We should certainly seek to be informed, but we should also seek to understand.
 
-Apologies for the length and any typos.
