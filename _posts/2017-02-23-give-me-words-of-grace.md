@@ -1,0 +1,30 @@
+---
+layout: post
+title: Give Me Words of Grace
+tags:
+- prayer
+- religion
+comments: true
+date: 2017-02-23 14:31:57
+---
+
+Thinking a lot about the power of language this week. Here's my prayer for the week:
+
+In arrogant blindness,  
+I fail to see that  
+what does not offend me  
+may still be offensive  
+to those around me.
+
+Our words are keys,  
+with the power to  
+both lock and unlock.  
+They can open doors  
+to future conversations  
+or close them forever.  
+They can be vehicles of grace  
+or weapons of hate and destruction.
+
+Help me choose grace.
+
+*Amen*
