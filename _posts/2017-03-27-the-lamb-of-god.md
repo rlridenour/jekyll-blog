@@ -8,7 +8,7 @@ comments: true
 date: 2017-03-27 13:41:31
 ---
 
-![Lamb of God](/images/2017/lamb.jpg)
+![Lamb of God](/images/2017/lamb.jpg)[^1]
 
 The sounds of Passover  
 fill the streets with  
@@ -28,3 +28,4 @@ have mercy on me.
 
 *Amen*
 
+[^1]: Zurbarán, Francisco, 1598-1664. *Lamb*, from Art in the Christian Tradition, a project of the Vanderbilt Divinity Library, Nashville, TN. http://diglib.library.vanderbilt.edu/act-imagelink.pl?RC=47446 [retrieved March 27, 2017]. Original source: www.yorckproject.de.
