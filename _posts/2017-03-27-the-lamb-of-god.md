@@ -8,7 +8,9 @@ comments: true
 date: 2017-03-27 13:41:31
 ---
 
-![Lamb of God](/images/2017/lamb.jpg)[^1]
+![Lamb of God](/images/2017/lamb.jpg)
+
+(*Lamb* by Francisco Zurbarán)[^1]
 
 The sounds of Passover  
 fill the streets with  
