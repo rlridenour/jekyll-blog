@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sliding Down the Bannister of Life
+title: Sliding Down the Banister of Life
 tags:
 - quotes
 comments: true
