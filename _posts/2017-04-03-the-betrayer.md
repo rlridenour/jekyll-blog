@@ -22,9 +22,6 @@ and for what?
 
 Not even thirty pieces of silver.
 
-Forgive my blindness,  
-unable to see the difference  
-between the kingdoms of this world  
-and the Kingdom of God.
+Lord, have mercy.
 
 *Amen*
