@@ -19,6 +19,13 @@ truth and beauty
 hung upon a cross  
 and we call it good.
 
-May God forgive us,
+What our minds cannot comprehend,  
+our words cannot express.
+
+So, we can do nothing  
+but stand in silence  
+before the glory  
+and the horror  
+of the cross.
 
 *Amen*
