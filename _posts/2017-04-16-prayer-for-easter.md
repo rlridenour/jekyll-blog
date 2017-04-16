@@ -10,7 +10,10 @@ date: 2017-04-16 15:28:41
 
 ![Weeping Mary](/images/2017/weeping-mary.jpg)
 
+<small>
 (Photograph: *Weeping Mary* by Martin Gommel)[^1]
+</small>
+
 "Who is it you are looking for?"  
 is a question for me,  
 not just for Mary.
