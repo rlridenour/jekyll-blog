@@ -10,6 +10,7 @@ date: 2017-04-16 15:28:41
 
 ![Weeping Mary](/images/2017/weeping-mary.jpg)
 
+(Photograph: *Weeping Mary* by Martin Gommel)[^1]
 "Who is it you are looking for?"  
 is a question for me,  
 not just for Mary.
@@ -30,3 +31,4 @@ wherever, and whoever, you are.
 
 
 
+[^1]: *Weeping Mary*, from Art in the Christian Tradition, a project of the Vanderbilt Divinity Library, Nashville, TN. <http://diglib.library.vanderbilt.edu/act-imagelink.pl?RC=54143> [retrieved April 16, 2017]. Original source: <http://www.flickr.com/photos/kwerfeldein/110099808/>
