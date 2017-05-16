@@ -24,6 +24,6 @@ than you've ever dreamed.
 May the great wisdom of the Father,  
 the incomparable love of the Son,  
 and the mighty power of the Spirit  
-be with you this week.
+be with you all this week.
 
 *Amen*
