@@ -1,0 +1,8 @@
+---
+layout: post
+title: My Page
+date: 2017-06-21 15:25
+link: http://randyridenour.net
+---
+
+Testing a link post.
