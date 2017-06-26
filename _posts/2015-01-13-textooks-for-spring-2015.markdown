@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Textooks for Spring 2015"
+title: "Textbooks for Spring 2015"
 date: 2014-11-19 12:59:43 -0600
 comments: true
-tags: 
+tags: books
 ---
 
 Here are the books for my courses, spring semester, 2015:
