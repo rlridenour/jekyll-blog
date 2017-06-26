@@ -3,7 +3,7 @@ layout: post
 title: Publishing to Jekyll with Editorial on iOS
 tags: 
 - iOS
-- Jekyll
+- jekyll
 comments: true
 date: 2017-06-21 11:05:34
 ---
